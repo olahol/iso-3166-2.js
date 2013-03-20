@@ -1,0 +1,9 @@
+*.swp
+node_modules
+npm-debug.log
+.git*
+parse.py
+data.csv
+functions.js
+data.js
+Makefile
