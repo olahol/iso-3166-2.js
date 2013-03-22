@@ -33,3 +33,8 @@ A subdivision record has the following fields.
 ### iso3166.subdivision(code)
 Retrieves a record matching `code`, if `code` is malformed or not found returns
 an empty record.
+
+* * *
+
+### iso3166.country(code)
+Retrieves a the name of a country.
