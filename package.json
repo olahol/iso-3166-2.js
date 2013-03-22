@@ -1,7 +1,7 @@
 {
   "name": "iso-3166-2",
   "description": "Lookup information about ISO-3166-2 subdivisions.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Ola Holmström <olaholmstrom+github@gmail.com>",
   "keywords": ["iso3166", "geo"],
   "main": "./iso3166.min.js",

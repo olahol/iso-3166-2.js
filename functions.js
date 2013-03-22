@@ -1,6 +1,6 @@
 var functions = {
   subdivision: function (code) {
-    code = code.toUpperCase(); // our iso-3166-2 data is in upper case.
+    code = code.trim().toUpperCase(); // our iso-3166-2 data is in upper case.
 
     var parts = code.split("-");
 
@@ -17,6 +17,19 @@ var functions = {
     var record = data[country]["sub"][code];
     record.countryName = data[country].name;
     record.countryCode = country;
+    record.code = code;
+
+    return record;
+  },
+
+  country: function (code) {
+    code = code.trim().toUpperCase();
+
+    if (!(code in data)) {
+      return {};
+    }
+
+    var record = data[code];
     record.code = code;
 
     return record;

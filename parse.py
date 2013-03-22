@@ -12,11 +12,11 @@ with open("data.csv", "r") as csv_file:
     countries = {}
     for row in unicode_csv_reader(csv_file):
         country_name         = row[0]
-        subdivision_code     = row[1]
+        subdivision_code     = row[1].strip()
         subdivision_name     = re.sub(r"\[.*\]", "", row[2]) # remove cruft from Sweden
         type                 = row[3]
         subdivision_alt_name = row[4]
-        country_code         = row[8]
+        country_code         = row[8].strip()
         country_alt_code     = row[9]
         if country_code not in countries:
             countries[country_code] = { "name": country_name.strip(), "sub": {} }
