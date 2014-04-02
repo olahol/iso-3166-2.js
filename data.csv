@@ -479,15 +479,15 @@ Bhutan,BT-32,Trongsa,District,"Tongsa, Trongsa",BT-32,12717,29,BT,BTN
 Bhutan,BT-21,Tsirang,District,"Chirang, Tsirang",BT-21,12725,29,BT,BTN
 Bhutan,BT-24,Wangdue Phodrang,District,"Wangdi Phodrang, Wangdiphodrang, Wangdue, Wangdue Phodrang",BT-24,12732,29,BT,BTN
 Bhutan,BT-34,Zhemgang,District,"Shemgang, Zhemgang",BT-34,12720,29,BT,BTN
-"Bolivia, Plurinational State Of",BO-H,Chuquisaca,Department,,BO-H,12739,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-C,Cochabamba,Department,,BO-C,12741,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-B,El Beni,Department,,BO-B,12740,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-L,La Paz,Department,,BO-L,12742,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-O,Oruro,Department,,BO-O,12738,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-N,Pando,Department,,BO-N,12743,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-P,Potosí,Department,,BO-P,12737,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-S,Santa Cruz,Department,,BO-S,12744,30,BO,BOL
-"Bolivia, Plurinational State Of",BO-T,Tarija,Department,,BO-T,12745,30,BO,BOL
+"Bolivia",BO-H,Chuquisaca,Department,,BO-H,12739,30,BO,BOL
+"Bolivia",BO-C,Cochabamba,Department,,BO-C,12741,30,BO,BOL
+"Bolivia",BO-B,El Beni,Department,,BO-B,12740,30,BO,BOL
+"Bolivia",BO-L,La Paz,Department,,BO-L,12742,30,BO,BOL
+"Bolivia",BO-O,Oruro,Department,,BO-O,12738,30,BO,BOL
+"Bolivia",BO-N,Pando,Department,,BO-N,12743,30,BO,BOL
+"Bolivia",BO-P,Potosí,Department,,BO-P,12737,30,BO,BOL
+"Bolivia",BO-S,Santa Cruz,Department,,BO-S,12744,30,BO,BOL
+"Bolivia",BO-T,Tarija,Department,,BO-T,12745,30,BO,BOL
 "Bonaire, Sint Eustatius and Saba",BQ-BO,Bonaire,municipality,,BQ-BO,48682,700,BQ,BES
 "Bonaire, Sint Eustatius and Saba",BQ-SA,Saba,municipality,,BQ-SA,48683,700,BQ,BES
 "Bonaire, Sint Eustatius and Saba",BQ-SE,Sint Eustatius,municipality,,BQ-SE,48684,700,BQ,BES
@@ -1733,37 +1733,37 @@ Indonesia,ID-SB,Sumatera Barat,province,,ID-SB,14735,106,ID,IDN
 Indonesia,ID-SS,Sumatera Selatan,province,,ID-SS,14717,106,ID,IDN
 Indonesia,ID-SU,Sumatera Utara,province,,ID-SU,14706,106,ID,IDN
 Indonesia,ID-YO,Yogyakarta,special region,,ID-YO,14718,106,ID,IDN
-"Iran, Islamic Republic Of",IR-03,Ardabil,Province,"Ardabil, Ardebil",IR-03,14748,107,IR,IRN
-"Iran, Islamic Republic Of",IR-02,Az¯arbayjan-e Gharbi,Province,"Azarbayjān-e Bakhtari, West Azerbaijan",IR-02,14756,107,IR,IRN
-"Iran, Islamic Republic Of",IR-01,Az¯arbayjan-e Sharqi,Province,"Azarbayjān-e Khavari, East Azerbaijan",IR-01,14749,107,IR,IRN
-"Iran, Islamic Republic Of",IR-06,Bushehr,Province,,IR-06,14757,107,IR,IRN
-"Iran, Islamic Republic Of",IR-08,Chahar Mah¸all va Bakhtiari,Province,Chaharmahal Bakhtiari,IR-08,14750,107,IR,IRN
-"Iran, Islamic Republic Of",IR-04,Esfahan,Province,Isfahan,IR-04,14758,107,IR,IRN
-"Iran, Islamic Republic Of",IR-14,Fars,Province,,IR-14,14751,107,IR,IRN
-"Iran, Islamic Republic Of",IR-19,Gilan,Province,Gilan,IR-19,14759,107,IR,IRN
-"Iran, Islamic Republic Of",IR-27,Golestan,Province,,IR-27*,14760,107,IR,IRN
-"Iran, Islamic Republic Of",IR-24,Hamadan,Province,Hamedan,IR-24,14752,107,IR,IRN
-"Iran, Islamic Republic Of",IR-23,Hormozgan,Province,,IR-23,14761,107,IR,IRN
-"Iran, Islamic Republic Of",IR-05,Ilam,Province,Ilam,IR-05,14753,107,IR,IRN
-"Iran, Islamic Republic Of",IR-15,Kerman,Province,,IR-15,14762,107,IR,IRN
-"Iran, Islamic Republic Of",IR-17,Kermanshah,Province,Bakhtaran,IR-17,14739,107,IR,IRN
-"Iran, Islamic Republic Of",IR-09,Khorasan,,Khorasan,IR-09,14740,107,IR,IRN
-"Iran, Islamic Republic Of",IR-29,Khorasan-e Janubi,Province,,IR-29*,19012,107,IR,IRN
-"Iran, Islamic Republic Of",IR-30,Khorasan-e Razavi,Province,,IR-30*,19013,107,IR,IRN
-"Iran, Islamic Republic Of",IR-31,Khorasan-e Shemali,Province,,IR-31*,19014,107,IR,IRN
-"Iran, Islamic Republic Of",IR-10,Khuzestan,Province,Arabistan,IR-10,14741,107,IR,IRN
-"Iran, Islamic Republic Of",IR-18,Kohkiluyeh va Buyer Ahmad,Province,"Boyer Ahmad-e Kohkiluyeh, Kohkilouyeh",IR-18,14742,107,IR,IRN
-"Iran, Islamic Republic Of",IR-16,Kordestan,Province,"Kurdestan, Kurdistan",IR-16,14743,107,IR,IRN
-"Iran, Islamic Republic Of",IR-20,Lorestan,Province,,IR-20,14744,107,IR,IRN
-"Iran, Islamic Republic Of",IR-22,Markazi,Province,,IR-22,14745,107,IR,IRN
-"Iran, Islamic Republic Of",IR-21,Mazandaran,Province,Mazandaran,IR-21,14746,107,IR,IRN
-"Iran, Islamic Republic Of",IR-28,Qazvin,Province,,IR-28*,14747,107,IR,IRN
-"Iran, Islamic Republic Of",IR-26,Qom,Province,,IR-26*,14738,107,IR,IRN
-"Iran, Islamic Republic Of",IR-12,Semnan,Province,,IR-12,14754,107,IR,IRN
-"Iran, Islamic Republic Of",IR-13,Sistan va Baluchestan,Province,Sistan-e Baluchistan,IR-13,14764,107,IR,IRN
-"Iran, Islamic Republic Of",IR-07,Tehran,Province,Teheran,IR-07,14755,107,IR,IRN
-"Iran, Islamic Republic Of",IR-25,Yazd,Province,,IR-25,14763,107,IR,IRN
-"Iran, Islamic Republic Of",IR-11,Zanjan,Province,,IR-11,14737,107,IR,IRN
+"Iran",IR-03,Ardabil,Province,"Ardabil, Ardebil",IR-03,14748,107,IR,IRN
+"Iran",IR-02,Az¯arbayjan-e Gharbi,Province,"Azarbayjān-e Bakhtari, West Azerbaijan",IR-02,14756,107,IR,IRN
+"Iran",IR-01,Az¯arbayjan-e Sharqi,Province,"Azarbayjān-e Khavari, East Azerbaijan",IR-01,14749,107,IR,IRN
+"Iran",IR-06,Bushehr,Province,,IR-06,14757,107,IR,IRN
+"Iran",IR-08,Chahar Mah¸all va Bakhtiari,Province,Chaharmahal Bakhtiari,IR-08,14750,107,IR,IRN
+"Iran",IR-04,Esfahan,Province,Isfahan,IR-04,14758,107,IR,IRN
+"Iran",IR-14,Fars,Province,,IR-14,14751,107,IR,IRN
+"Iran",IR-19,Gilan,Province,Gilan,IR-19,14759,107,IR,IRN
+"Iran",IR-27,Golestan,Province,,IR-27*,14760,107,IR,IRN
+"Iran",IR-24,Hamadan,Province,Hamedan,IR-24,14752,107,IR,IRN
+"Iran",IR-23,Hormozgan,Province,,IR-23,14761,107,IR,IRN
+"Iran",IR-05,Ilam,Province,Ilam,IR-05,14753,107,IR,IRN
+"Iran",IR-15,Kerman,Province,,IR-15,14762,107,IR,IRN
+"Iran",IR-17,Kermanshah,Province,Bakhtaran,IR-17,14739,107,IR,IRN
+"Iran",IR-09,Khorasan,,Khorasan,IR-09,14740,107,IR,IRN
+"Iran",IR-29,Khorasan-e Janubi,Province,,IR-29*,19012,107,IR,IRN
+"Iran",IR-30,Khorasan-e Razavi,Province,,IR-30*,19013,107,IR,IRN
+"Iran",IR-31,Khorasan-e Shemali,Province,,IR-31*,19014,107,IR,IRN
+"Iran",IR-10,Khuzestan,Province,Arabistan,IR-10,14741,107,IR,IRN
+"Iran",IR-18,Kohkiluyeh va Buyer Ahmad,Province,"Boyer Ahmad-e Kohkiluyeh, Kohkilouyeh",IR-18,14742,107,IR,IRN
+"Iran",IR-16,Kordestan,Province,"Kurdestan, Kurdistan",IR-16,14743,107,IR,IRN
+"Iran",IR-20,Lorestan,Province,,IR-20,14744,107,IR,IRN
+"Iran",IR-22,Markazi,Province,,IR-22,14745,107,IR,IRN
+"Iran",IR-21,Mazandaran,Province,Mazandaran,IR-21,14746,107,IR,IRN
+"Iran",IR-28,Qazvin,Province,,IR-28*,14747,107,IR,IRN
+"Iran",IR-26,Qom,Province,,IR-26*,14738,107,IR,IRN
+"Iran",IR-12,Semnan,Province,,IR-12,14754,107,IR,IRN
+"Iran",IR-13,Sistan va Baluchestan,Province,Sistan-e Baluchistan,IR-13,14764,107,IR,IRN
+"Iran",IR-07,Tehran,Province,Teheran,IR-07,14755,107,IR,IRN
+"Iran",IR-25,Yazd,Province,,IR-25,14763,107,IR,IRN
+"Iran",IR-11,Zanjan,Province,,IR-11,14737,107,IR,IRN
 Iraq,IQ-AN,Al Anbar,Province,al-Anbar,IQ-AN*,14771,108,IQ,IRQ
 Iraq,IQ-BA,Al Basrah,Province,"Basra, Bassora, al-Basrah",IQ-BA*,14773,108,IQ,IRQ
 Iraq,IQ-MU,Al Muthanná,Province,al-Muthanna,IQ-MU*,14777,108,IQ,IRQ
@@ -2090,24 +2090,24 @@ Kyrgyzstan,KG-N,Naryn,region,Naryn,KG-N*,15071,123,KG,KGZ
 Kyrgyzstan,KG-O,Osh,region,Osh,KG-O*,15069,123,KG,KGZ
 Kyrgyzstan,KG-T,Talas,region,,KG-T*,15075,123,KG,KGZ
 Kyrgyzstan,KG-Y,Ysyk-Köl,region,"Balikchi, Balykchy, Balıkçı, Issyk-Kul",KG-Y*,15074,123,KG,KGZ
-Lao People's Democratic Republic,LA-AT,Attapu [Attopeu],province,"Attapu, Attopei, Attopeu",LA-AT*,15080,124,LA,LAO
-Lao People's Democratic Republic,LA-BK,Bokèo,province,,LA-BK*,15081,124,LA,LAO
-Lao People's Democratic Republic,LA-BL,Bolikhamxai [Borikhane],province,"Bolikhamsai, Bolikhamxai, Borikhamxai",LA-BL*,15089,124,LA,LAO
-Lao People's Democratic Republic,LA-CH,Champasak [Champassak],province,"Champasack, Champassak",LA-CH*,15082,124,LA,LAO
-Lao People's Democratic Republic,LA-HO,Houaphan,province,Houaphan,LA-HO*,15093,124,LA,LAO
-Lao People's Democratic Republic,LA-KH,Khammouan,province,,LA-KH*,15094,124,LA,LAO
-Lao People's Democratic Republic,LA-LM,Louang Namtha,province,"Louang Namtha, Louangnamtha, Luang Namtha, Luong Nam Tha",LA-LM*,15083,124,LA,LAO
-Lao People's Democratic Republic,LA-LP,Louangphabang [Louang Prabang],province,"Louang Phrabang, Louang Prabang, Louangphrabang, Luang Phrabang",LA-LP*,15092,124,LA,LAO
-Lao People's Democratic Republic,LA-OU,Oudômxai [Oudomsai],province,"Oudomsai, Oudomsay",LA-OU*,15084,124,LA,LAO
-Lao People's Democratic Republic,LA-PH,Phôngsali [Phong Saly],province,Phongsali,LA-PH*,15085,124,LA,LAO
-Lao People's Democratic Republic,LA-SL,Salavan [Saravane],province,Saravane,LA-SL*,15091,124,LA,LAO
-Lao People's Democratic Republic,LA-SV,Savannakhét,province,,LA-SV*,15086,124,LA,LAO
-Lao People's Democratic Republic,LA-VI,Vientiane,province,Vientiane Province,LA-VI*,15095,124,LA,LAO
-Lao People's Democratic Republic,LA-VT,Vientiane Prefecture,prefecture,"Viangchan City, Vientiane City",LA-VT*,15087,124,LA,LAO
-Lao People's Democratic Republic,LA-XA,Xaignabouli [Sayaboury],province,"Sayaboury, Sayabury, Xaignaboury",LA-XA*,15088,124,LA,LAO
-Lao People's Democratic Republic,LA-XN,Xaisômboun,special zone,Xaisômboun,LA-XN*,15096,124,LA,LAO
-Lao People's Democratic Republic,LA-XI,Xiangkhoang [Xieng Khouang],province,"Xiang Khouang, Xiangkhouang, Xiangkhuang, Xieng Khouang",LA-XI*,15079,124,LA,LAO
-Lao People's Democratic Republic,LA-XE,Xékong [Sékong],province,Xékong,LA-XE*,15090,124,LA,LAO
+Laos,LA-AT,Attapu [Attopeu],province,"Attapu, Attopei, Attopeu",LA-AT*,15080,124,LA,LAO
+Laos,LA-BK,Bokèo,province,,LA-BK*,15081,124,LA,LAO
+Laos,LA-BL,Bolikhamxai [Borikhane],province,"Bolikhamsai, Bolikhamxai, Borikhamxai",LA-BL*,15089,124,LA,LAO
+Laos,LA-CH,Champasak [Champassak],province,"Champasack, Champassak",LA-CH*,15082,124,LA,LAO
+Laos,LA-HO,Houaphan,province,Houaphan,LA-HO*,15093,124,LA,LAO
+Laos,LA-KH,Khammouan,province,,LA-KH*,15094,124,LA,LAO
+Laos,LA-LM,Louang Namtha,province,"Louang Namtha, Louangnamtha, Luang Namtha, Luong Nam Tha",LA-LM*,15083,124,LA,LAO
+Laos,LA-LP,Louangphabang [Louang Prabang],province,"Louang Phrabang, Louang Prabang, Louangphrabang, Luang Phrabang",LA-LP*,15092,124,LA,LAO
+Laos,LA-OU,Oudômxai [Oudomsai],province,"Oudomsai, Oudomsay",LA-OU*,15084,124,LA,LAO
+Laos,LA-PH,Phôngsali [Phong Saly],province,Phongsali,LA-PH*,15085,124,LA,LAO
+Laos,LA-SL,Salavan [Saravane],province,Saravane,LA-SL*,15091,124,LA,LAO
+Laos,LA-SV,Savannakhét,province,,LA-SV*,15086,124,LA,LAO
+Laos,LA-VI,Vientiane,province,Vientiane Province,LA-VI*,15095,124,LA,LAO
+Laos,LA-VT,Vientiane Prefecture,prefecture,"Viangchan City, Vientiane City",LA-VT*,15087,124,LA,LAO
+Laos,LA-XA,Xaignabouli [Sayaboury],province,"Sayaboury, Sayabury, Xaignaboury",LA-XA*,15088,124,LA,LAO
+Laos,LA-XN,Xaisômboun,special zone,Xaisômboun,LA-XN*,15096,124,LA,LAO
+Laos,LA-XI,Xiangkhoang [Xieng Khouang],province,"Xiang Khouang, Xiangkhouang, Xiangkhuang, Xieng Khouang",LA-XI*,15079,124,LA,LAO
+Laos,LA-XE,Xékong [Sékong],province,Xékong,LA-XE*,15090,124,LA,LAO
 Latvia,LV-001,Aglonas novads (Aglona),District,,LV-001*,48896,125,LV,LVA
 Latvia,LV-002,Aizkraukles novads (Aizkraukle),District,,LV-002*,48728,125,LV,LVA
 Latvia,LV-003,Aizputes novads (Aizpute),District,,LV-003*,48729,125,LV,LVA
@@ -2642,43 +2642,43 @@ Mexico,MX-ZAC,Zacatecas,state,,MX-ZAC,15411,146,MX,MEX
 "Micronesia, Federated States Of",FM-KSA,Kosrae,State,Kosrae,FM-KSA,15436,147,FM,FSM
 "Micronesia, Federated States Of",FM-PNI,Pohnpei,State,"Ascension, Ponape",FM-PNI,15434,147,FM,FSM
 "Micronesia, Federated States Of",FM-YAP,Yap,State,,FM-YAP,15438,147,FM,FSM
-"Moldova, Republic of",MD-AN,Anenii Noi,district,,MD-AN*,15471,148,MD,MDA
-"Moldova, Republic of",MD-BS,Basarabeasca,district,,MD-BS*,15454,148,MD,MDA
-"Moldova, Republic of",MD-BR,Briceni,district,,MD-BR*,15472,148,MD,MDA
-"Moldova, Republic of",MD-BA,Bălţi,city,,MD-BA*,15453,148,MD,MDA
-"Moldova, Republic of",MD-CA,Cahul,district,,MD-CA*,15455,148,MD,MDA
-"Moldova, Republic of",MD-CT,Cantemir,district,,MD-CT*,15458,148,MD,MDA
-"Moldova, Republic of",MD-CU,Chisinau,city,,MD-CU*,15459,148,MD,MDA
-"Moldova, Republic of",MD-CM,Cimişlia,district,,MD-CM*,15460,148,MD,MDA
-"Moldova, Republic of",MD-CR,Criuleni,district,,MD-CR*,15475,148,MD,MDA
-"Moldova, Republic of",MD-CL,Călăraşi,district,,MD-CL*,15473,148,MD,MDA
-"Moldova, Republic of",MD-CS,Căuşeni,district,,MD-CS*,15474,148,MD,MDA
-"Moldova, Republic of",MD-DO,Donduşeni,district,,MD-DO*,15461,148,MD,MDA
-"Moldova, Republic of",MD-DR,Drochia,district,,MD-DR*,15476,148,MD,MDA
-"Moldova, Republic of",MD-DU,Dubăsari,district,,MD-DU*,15444,148,MD,MDA
-"Moldova, Republic of",MD-ED,Edinet,district,,MD-ED*,15477,148,MD,MDA
-"Moldova, Republic of",MD-FL,Floreşti,district,,MD-FL*,15443,148,MD,MDA
-"Moldova, Republic of",MD-FA,Făleşti,district,,MD-FA*,15445,148,MD,MDA
-"Moldova, Republic of",MD-GA,"Gagauzia, Unitatea teritoriala autonoma (UTAG)",autonomous territorial unit,,MD-GA*,15446,148,MD,MDA
-"Moldova, Republic of",MD-GL,Glodeni,district,,MD-GL*,15478,148,MD,MDA
-"Moldova, Republic of",MD-HI,Hînceşti,district,,MD-HI*,15448,148,MD,MDA
-"Moldova, Republic of",MD-IA,Ialoveni,district,,MD-IA*,15442,148,MD,MDA
-"Moldova, Republic of",MD-LE,Leova,district,,MD-LE*,15449,148,MD,MDA
-"Moldova, Republic of",MD-NI,Nisporeni,district,,MD-NI*,15450,148,MD,MDA
-"Moldova, Republic of",MD-OC,Ocniţa,district,,MD-OC*,15479,148,MD,MDA
-"Moldova, Republic of",MD-OR,Orhei,district,,MD-OR*,15451,148,MD,MDA
-"Moldova, Republic of",MD-RE,Rezina,district,,MD-RE*,15441,148,MD,MDA
-"Moldova, Republic of",MD-RI,Rîşcani,district,,MD-RI*,15463,148,MD,MDA
-"Moldova, Republic of",MD-SO,Soroca,district,,MD-SO*,15466,148,MD,MDA
-"Moldova, Republic of",MD-ST,Străşeni,district,,MD-ST*,15467,148,MD,MDA
-"Moldova, Republic of",MD-SN,"Stînga Nistrului, unitatea teritoriala din",territorial unit,,MD-SN*,20172,148,MD,MDA
-"Moldova, Republic of",MD-SI,Sîngerei,district,,MD-SI*,15464,148,MD,MDA
-"Moldova, Republic of",MD-TA,Taraclia,district,,MD-TA*,15481,148,MD,MDA
-"Moldova, Republic of",MD-TE,Teleneşti,district,,MD-TE*,15468,148,MD,MDA
-"Moldova, Republic of",MD-BD,Tighina,city,,MD-BD*,15469,148,MD,MDA
-"Moldova, Republic of",MD-UN,Ungheni,district,,MD-UN*,15470,148,MD,MDA
-"Moldova, Republic of",MD-SD,Şoldăneşti,district,,MD-SD*,15465,148,MD,MDA
-"Moldova, Republic of",MD-SV,Ştefan Vodă,district,,MD-SV*,15440,148,MD,MDA
+"Moldova",MD-AN,Anenii Noi,district,,MD-AN*,15471,148,MD,MDA
+"Moldova",MD-BS,Basarabeasca,district,,MD-BS*,15454,148,MD,MDA
+"Moldova",MD-BR,Briceni,district,,MD-BR*,15472,148,MD,MDA
+"Moldova",MD-BA,Bălţi,city,,MD-BA*,15453,148,MD,MDA
+"Moldova",MD-CA,Cahul,district,,MD-CA*,15455,148,MD,MDA
+"Moldova",MD-CT,Cantemir,district,,MD-CT*,15458,148,MD,MDA
+"Moldova",MD-CU,Chisinau,city,,MD-CU*,15459,148,MD,MDA
+"Moldova",MD-CM,Cimişlia,district,,MD-CM*,15460,148,MD,MDA
+"Moldova",MD-CR,Criuleni,district,,MD-CR*,15475,148,MD,MDA
+"Moldova",MD-CL,Călăraşi,district,,MD-CL*,15473,148,MD,MDA
+"Moldova",MD-CS,Căuşeni,district,,MD-CS*,15474,148,MD,MDA
+"Moldova",MD-DO,Donduşeni,district,,MD-DO*,15461,148,MD,MDA
+"Moldova",MD-DR,Drochia,district,,MD-DR*,15476,148,MD,MDA
+"Moldova",MD-DU,Dubăsari,district,,MD-DU*,15444,148,MD,MDA
+"Moldova",MD-ED,Edinet,district,,MD-ED*,15477,148,MD,MDA
+"Moldova",MD-FL,Floreşti,district,,MD-FL*,15443,148,MD,MDA
+"Moldova",MD-FA,Făleşti,district,,MD-FA*,15445,148,MD,MDA
+"Moldova",MD-GA,"Gagauzia, Unitatea teritoriala autonoma (UTAG)",autonomous territorial unit,,MD-GA*,15446,148,MD,MDA
+"Moldova",MD-GL,Glodeni,district,,MD-GL*,15478,148,MD,MDA
+"Moldova",MD-HI,Hînceşti,district,,MD-HI*,15448,148,MD,MDA
+"Moldova",MD-IA,Ialoveni,district,,MD-IA*,15442,148,MD,MDA
+"Moldova",MD-LE,Leova,district,,MD-LE*,15449,148,MD,MDA
+"Moldova",MD-NI,Nisporeni,district,,MD-NI*,15450,148,MD,MDA
+"Moldova",MD-OC,Ocniţa,district,,MD-OC*,15479,148,MD,MDA
+"Moldova",MD-OR,Orhei,district,,MD-OR*,15451,148,MD,MDA
+"Moldova",MD-RE,Rezina,district,,MD-RE*,15441,148,MD,MDA
+"Moldova",MD-RI,Rîşcani,district,,MD-RI*,15463,148,MD,MDA
+"Moldova",MD-SO,Soroca,district,,MD-SO*,15466,148,MD,MDA
+"Moldova",MD-ST,Străşeni,district,,MD-ST*,15467,148,MD,MDA
+"Moldova",MD-SN,"Stînga Nistrului, unitatea teritoriala din",territorial unit,,MD-SN*,20172,148,MD,MDA
+"Moldova",MD-SI,Sîngerei,district,,MD-SI*,15464,148,MD,MDA
+"Moldova",MD-TA,Taraclia,district,,MD-TA*,15481,148,MD,MDA
+"Moldova",MD-TE,Teleneşti,district,,MD-TE*,15468,148,MD,MDA
+"Moldova",MD-BD,Tighina,city,,MD-BD*,15469,148,MD,MDA
+"Moldova",MD-UN,Ungheni,district,,MD-UN*,15470,148,MD,MDA
+"Moldova",MD-SD,Şoldăneşti,district,,MD-SD*,15465,148,MD,MDA
+"Moldova",MD-SV,Ştefan Vodă,district,,MD-SV*,15440,148,MD,MDA
 Monaco,MC-FO,Fontvieille,quarter,,MC-FO*,48841,149,MC,MCO
 Monaco,MC-JE,Jardin Exotique,quarter,,MC-JE*,48842,149,MC,MCO
 Monaco,MC-CL,La Colle,quarter,,MC-CL*,48843,149,MC,MCO
@@ -3041,22 +3041,22 @@ Palau,PW-227,Ngeremlengui,State,Ngeremlengui,PW-227*,15885,172,PW,PLW
 Palau,PW-228,Ngiwal,State,,PW-228*,15896,172,PW,PLW
 Palau,PW-350,Peleliu,State,,PW-350*,15897,172,PW,PLW
 Palau,PW-370,Sonsorol,State,,PW-370*,15884,172,PW,PLW
-"Palestinian Territory, Occupied",PS-BTH,Bethlehem Bayt Laḩm,governorates,,PS-BTH,48863,173,PS,PSE
-"Palestinian Territory, Occupied",PS-DEB,Deir El Balah Dayr al Balaḩ,governorates,,PS-DEB,48864,173,PS,PSE
-"Palestinian Territory, Occupied",PS-GZA,Gaza Ghazzah,governorates,,PS-GZA,48865,173,PS,PSE
-"Palestinian Territory, Occupied",PS-HBN,Hebron Al Khalīl,governorates,,PS-HBN,48866,173,PS,PSE
-"Palestinian Territory, Occupied",PS-JEN,Jenin Janīn,governorates,,PS-JEN,48867,173,PS,PSE
-"Palestinian Territory, Occupied",PS-JRH,Jericho – Al Aghwar Arīḩā wa al Aghwār,governorates,,PS-JRH,48868,173,PS,PSE
-"Palestinian Territory, Occupied",PS-JEM,Jerusalem Al Quds,governorates,,PS-JEM,48869,173,PS,PSE
-"Palestinian Territory, Occupied",PS-KYS,Khan Yunis Khān Yūnis,governorates,,PS-KYS,48870,173,PS,PSE
-"Palestinian Territory, Occupied",PS-NBS,Nablus Nāblus,governorates,,PS-NBS,48871,173,PS,PSE
-"Palestinian Territory, Occupied",PS-NGZ,North Gaza Shamāl Ghazzah,governorates,,PS-NGZ,48872,173,PS,PSE
-"Palestinian Territory, Occupied",PS-QQA,Qalqilya Qalqīlyah,governorates,,PS-QQA,48873,173,PS,PSE
-"Palestinian Territory, Occupied",PS-RFH,Rafah Rafaḩ,governorates,,PS-RFH,48874,173,PS,PSE
-"Palestinian Territory, Occupied",PS-RBH,Ramallah Rām Allāh wa al Bīrah,governorates,,PS-RBH,48875,173,PS,PSE
-"Palestinian Territory, Occupied",PS-SLT,Salfit Salfīt,governorates,,PS-SLT,48876,173,PS,PSE
-"Palestinian Territory, Occupied",PS-TBS,Tubas Ţūbās,governorates,,PS-TBS,48877,173,PS,PSE
-"Palestinian Territory, Occupied",PS-TKM,Tulkarm Ţūlkarm,governorates,,PS-TKM,48878,173,PS,PSE
+"Palestine",PS-BTH,Bethlehem Bayt Laḩm,governorates,,PS-BTH,48863,173,PS,PSE
+"Palestine",PS-DEB,Deir El Balah Dayr al Balaḩ,governorates,,PS-DEB,48864,173,PS,PSE
+"Palestine",PS-GZA,Gaza Ghazzah,governorates,,PS-GZA,48865,173,PS,PSE
+"Palestine",PS-HBN,Hebron Al Khalīl,governorates,,PS-HBN,48866,173,PS,PSE
+"Palestine",PS-JEN,Jenin Janīn,governorates,,PS-JEN,48867,173,PS,PSE
+"Palestine",PS-JRH,Jericho – Al Aghwar Arīḩā wa al Aghwār,governorates,,PS-JRH,48868,173,PS,PSE
+"Palestine",PS-JEM,Jerusalem Al Quds,governorates,,PS-JEM,48869,173,PS,PSE
+"Palestine",PS-KYS,Khan Yunis Khān Yūnis,governorates,,PS-KYS,48870,173,PS,PSE
+"Palestine",PS-NBS,Nablus Nāblus,governorates,,PS-NBS,48871,173,PS,PSE
+"Palestine",PS-NGZ,North Gaza Shamāl Ghazzah,governorates,,PS-NGZ,48872,173,PS,PSE
+"Palestine",PS-QQA,Qalqilya Qalqīlyah,governorates,,PS-QQA,48873,173,PS,PSE
+"Palestine",PS-RFH,Rafah Rafaḩ,governorates,,PS-RFH,48874,173,PS,PSE
+"Palestine",PS-RBH,Ramallah Rām Allāh wa al Bīrah,governorates,,PS-RBH,48875,173,PS,PSE
+"Palestine",PS-SLT,Salfit Salfīt,governorates,,PS-SLT,48876,173,PS,PSE
+"Palestine",PS-TBS,Tubas Ţūbās,governorates,,PS-TBS,48877,173,PS,PSE
+"Palestine",PS-TKM,Tulkarm Ţūlkarm,governorates,,PS-TKM,48878,173,PS,PSE
 Panama,PA-1,Bocas del Toro,province,,PA-1,15928,175,PA,PAN
 Panama,PA-4,Chiriquí,province,,PA-4,15920,175,PA,PAN
 Panama,PA-2,Coclé,province,,PA-2,15929,175,PA,PAN
@@ -3316,90 +3316,90 @@ Romania,RO-TL,Tulcea,County,,RO-TL,17815,189,RO,ROU
 Romania,RO-VS,Vaslui,County,,RO-VS,17816,189,RO,ROU
 Romania,RO-VN,Vrancea,County,,RO-VN,17781,189,RO,ROU
 Romania,RO-VL,Vâlcea,County,Vîlcea,RO-VL,17818,189,RO,ROU
-Russian Federation,RU-AD,"Adygeya, Respublika",republic,"Adygei Republic, Adygeja",RU-AD*,17879,190,RU,RUS
-Russian Federation,RU-AL,"Altay, Respublika",republic,"Altaj, Altay, Gorno-Altaj",RU-AL*,17857,190,RU,RUS
-Russian Federation,RU-ALT,Altayskiy kray,administrative territory,"Altai Kray, Altajskij Kray, Altajskiy Kraj, Altaj",RU-ALT*,17881,190,RU,RUS
-Russian Federation,RU-AMU,Amurskaya oblast',administrative region,Amurskaja Oblast,RU-AMU*,17882,190,RU,RUS
-Russian Federation,RU-ARK,Arkhangel'skaya oblast',administrative region,"Arhangelskaja Oblast, Arhangelsk",RU-ARK*,17853,190,RU,RUS
-Russian Federation,RU-AST,Astrakhanskaya oblast',administrative region,"Astrahanska Oblast, Astrahan",RU-AST*,17883,190,RU,RUS
-Russian Federation,RU-BA,"Bashkortostan, Respublika",republic,Baškortostan,RU-BA*,17884,190,RU,RUS
-Russian Federation,RU-BEL,Belgorodskaya oblast',administrative region,Belgorodskaja Oblast,RU-BEL*,17854,190,RU,RUS
-Russian Federation,RU-BRY,Bryanskaya oblast',administrative region,"Brjanskaja Oblast, Brjansk",RU-BRY*,17885,190,RU,RUS
-Russian Federation,RU-BU,"Buryatiya, Respublika",republic,"Buryat Republic, Burjatija",RU-BU*,17886,190,RU,RUS
-Russian Federation,RU-CE,Chechenskaya Respublika,republic,"Chechen, Chechenia, Ichkeria, Ičkeria, Čečens, Čečenskaja Respublika, Čečenija",RU-CE*,17855,190,RU,RUS
-Russian Federation,RU-CHE,Chelyabinskaya oblast',administrative region,"Cheljabinsk, Čeljabinskaja Oblast, Čeljabinsk",RU-CHE*,17887,190,RU,RUS
-Russian Federation,RU-CHU,Chukotskiy avtonomnyy okrug,autonomous district,"Chuckchi, Čukotskij Avtonomnyj Okrug, Čukči, Čukotka",RU-CHU*,17889,190,RU,RUS
-Russian Federation,RU-CU,Chuvashskaya Respublika,republic,"Chuvash Republic, Chuvashskaya Respublika, Čuvašskaja Respublika, Čuvašija",RU-CU*,17856,190,RU,RUS
-Russian Federation,RU-DA,"Dagestan, Respublika",republic,,RU-DA*,17890,190,RU,RUS
-Russian Federation,RU-IN,Ingushskaya Respublika [Respublika Ingushetiya],republic,"Ingushetija, Ingušetija",RU-IN*,17894,190,RU,RUS
-Russian Federation,RU-IRK,Irkutskaya oblast',administrative region,Irkutskaja Oblast,RU-IRK*,17895,190,RU,RUS
-Russian Federation,RU-IVA,Ivanovskaya oblast',administrative region,Ivanovskaja Oblast,RU-IVA*,17859,190,RU,RUS
-Russian Federation,RU-KB,Kabardino-Balkarskaya Respublika,republic,"Kabardino-Balkarian Republic, Kabardino-Balkarskaja Respublika, Kabardino-Balkarija",RU-KB*,17899,190,RU,RUS
-Russian Federation,RU-KGD,Kaliningradskaya oblast',administrative region,Kaliningradskaja Oblast,RU-KGD*,17900,190,RU,RUS
-Russian Federation,RU-KL,"Kalmykiya, Respublika",republic,"Halmg-Tangč, Kalmyk Republic, Khalmg-Tangch, Kalmykija",RU-KL*,17901,190,RU,RUS
-Russian Federation,RU-KLU,Kaluzhskaya oblast',administrative region,"Kaluzhskaya Oblast, Kalužskaja Oblast",RU-KLU*,17902,190,RU,RUS
-Russian Federation,RU-KAM,Kamchatskaya oblast',administrative territory,"Kamchatskaya Oblast, Kamčatskaja Oblast, Kamčatka",RU-KAM*,17903,190,RU,RUS
-Russian Federation,RU-KC,Karachayevo-Cherkesskaya Respublika,republic,"Karachay-Cherkessian, Karačajevo-Čerkesskaja Respublika, Karačaj-Čerkessija",RU-KC*,17904,190,RU,RUS
-Russian Federation,RU-KR,"Kareliya, Respublika",republic,"Karelian Republic, Karelija",RU-KR*,17905,190,RU,RUS
-Russian Federation,RU-KEM,Kemerovskaya oblast',administrative region,Kemerovskaja Oblast,RU-KEM*,17843,190,RU,RUS
-Russian Federation,RU-KHA,Khabarovskiy kray,administrative territory,"Habarovskij Kray, Habarovsk",RU-KHA*,17892,190,RU,RUS
-Russian Federation,RU-KK,"Khakasiya, Respublika",republic,"Khakass Republic, Hakasija",RU-KK*,17893,190,RU,RUS
-Russian Federation,RU-KHM,Khanty-Mansiyskiy avtonomnyy okrug [Yugra],autonomous district,"Hanty-Mansijskij Avtonomnyj Okrug, Hanty-Mansija",RU-KHM*,17858,190,RU,RUS
-Russian Federation,RU-KIR,Kirovskaya oblast',administrative region,Kirovskaja Oblast,RU-KIR*,17844,190,RU,RUS
-Russian Federation,RU-KO,"Komi, Respublika",republic,,RU-KO*,17845,190,RU,RUS
-Russian Federation,RU-X1~,Komi-Permyak,,"Komi-Permjatskij Avtonomnyj Okrug, Komi-Permjak",RU-X1~,17846,190,RU,RUS
-Russian Federation,RU-KOS,Kostromskaya oblast',administrative region,Kostromskaja Oblast,RU-KOS*,17847,190,RU,RUS
-Russian Federation,RU-KDA,Krasnodarskiy kray,administrative territory,Krasnodarskij Kraj,RU-KDA*,17861,190,RU,RUS
-Russian Federation,RU-KYA,Krasnoyarskiy kray,administrative territory,"Krasnojarsk, Krasnojarskij Kraj, Krasnojarsk",RU-KYA*,17848,190,RU,RUS
-Russian Federation,RU-KGN,Kurganskaya oblast',administrative region,Kurganskaja Oblast,RU-KGN*,17849,190,RU,RUS
-Russian Federation,RU-KRS,Kurskaya oblast',administrative region,Kurskaja Oblast,RU-KRS*,17862,190,RU,RUS
-Russian Federation,RU-LEN,Leningradskaya oblast',administrative region,Leningradskaja Oblast,RU-LEN*,17850,190,RU,RUS
-Russian Federation,RU-LIP,Lipetskaya oblast',administrative region,"Lipeckaja Oblast, Lipeck",RU-LIP*,17863,190,RU,RUS
-Russian Federation,RU-MAG,Magadanskaya oblast',administrative region,Magadanskaja Oblast,RU-MAG*,17851,190,RU,RUS
-Russian Federation,RU-ME,"Mariy El, Respublika",republic,"Mariy El, Marij El",RU-ME*,17834,190,RU,RUS
-Russian Federation,RU-MO,"Mordoviya, Respublika",republic,"Mordovian Republic, Mordovija",RU-MO*,17864,190,RU,RUS
-Russian Federation,RU-MOS,Moskovskaya oblast',administrative region,"Moskva, Moskau, Moscou, Moscú",RU-MOS*,17836,190,RU,RUS
-Russian Federation,RU-MOW,Moskva,autonomous city,Moskovskaja Oblast,RU-MOW,17835,190,RU,RUS
-Russian Federation,RU-MUR,Murmanskaya oblast',administrative region,Murmanskaja Oblast,RU-MUR*,17865,190,RU,RUS
-Russian Federation,RU-NEN,Nenetskiy avtonomnyy okrug,autonomous district,Nenetskij Avtonomnyj Okrug,RU-NEN*,17837,190,RU,RUS
-Russian Federation,RU-NIZ,Nizhegorodskaya oblast',administrative region,"Gorki, Gorkij, Gorky, Nizhegorodskaya Oblast, Nižegorodskaja Oblast, Nižnij Novgorod",RU-NIZ*,17838,190,RU,RUS
-Russian Federation,RU-NGR,Novgorodskaya oblast',administrative region,Novgorodskaja Oblast,RU-NGR*,17866,190,RU,RUS
-Russian Federation,RU-NVS,Novosibirskaya oblast',administrative region,Novosibirskaja Oblast,RU-NVS*,17839,190,RU,RUS
-Russian Federation,RU-OMS,Omskaya oblast',administrative region,Omskaja Oblast,RU-OMS*,17867,190,RU,RUS
-Russian Federation,RU-ORE,Orenburgskaya oblast',administrative region,Orenburgskaja Oblast,RU-ORE*,17840,190,RU,RUS
-Russian Federation,RU-ORL,Orlovskaya oblast',administrative region,"Orlovskaja Oblast, Orjol",RU-ORL*,17841,190,RU,RUS
-Russian Federation,RU-PNZ,Penzenskaya oblast',administrative region,Penzenskaja Oblast,RU-PNZ*,17868,190,RU,RUS
-Russian Federation,RU-PER,Perm,administrative territory,Permskaja Oblast,RU-PER*,17842,190,RU,RUS
-Russian Federation,RU-PRI,Primorskiy kray,administrative territory,"Primorskij, Primorskij Kraj, Primorje",RU-PRI*,17825,190,RU,RUS
-Russian Federation,RU-PSK,Pskovskaya oblast',administrative region,"Pihkva, Pleskau, Pskovskaja Oblast",RU-PSK*,17869,190,RU,RUS
-Russian Federation,RU-ROS,Rostovskaya oblast',administrative region,Rostovskaja Oblast,RU-ROS*,17870,190,RU,RUS
-Russian Federation,RU-RYA,Ryazanskaya oblast',administrative region,"Rjazanskaja Oblast, Rjazan",RU-RYA*,17826,190,RU,RUS
-Russian Federation,RU-SA,"Sakha, Respublika [Yakutiya]",republic,"Jakutija, Sakha, Yakutsk-Sakha, Saha",RU-SA*,17827,190,RU,RUS
-Russian Federation,RU-SAK,Sakhalinskaya oblast',administrative region,"Sahalinskaya Oblast, Sahalin",RU-SAK*,17828,190,RU,RUS
-Russian Federation,RU-SAM,Samarskaya oblast',administrative region,Samarskaja Oblast,RU-SAM*,17871,190,RU,RUS
-Russian Federation,RU-SPE,Sankt-Peterburg,autonomous city,"San Pietroburgo, Sankt-Peterburg, Sankt Petersburg, Saint-Pétersbourg, San Petersburgo",RU-SPE*,17829,190,RU,RUS
-Russian Federation,RU-SAR,Saratovskaya oblast',administrative region,Saratovskaja Oblast,RU-SAR*,17872,190,RU,RUS
-Russian Federation,RU-SE,"Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]",republic,"Alania, North Ossetian Republic, Osetija, Alanija",RU-SE*,17852,190,RU,RUS
-Russian Federation,RU-SMO,Smolenskaya oblast',administrative region,Smolenskaja Oblast,RU-SMO*,17830,190,RU,RUS
-Russian Federation,RU-STA,Stavropol'skiy kray,administrative territory,Stavropolskij Kraj,RU-STA*,17831,190,RU,RUS
-Russian Federation,RU-SVE,Sverdlovskaya oblast',administrative region,Sverdlovskaja Oblast,RU-SVE*,17832,190,RU,RUS
-Russian Federation,RU-TAM,Tambovskaya oblast',administrative region,Tambovskaja Oblast,RU-TAM*,17833,190,RU,RUS
-Russian Federation,RU-TA,"Tatarstan, Respublika",republic,,RU-TA*,17824,190,RU,RUS
-Russian Federation,RU-TOM,Tomskaya oblast',administrative region,Tomskaja Oblast,RU-TOM*,17906,190,RU,RUS
-Russian Federation,RU-TUL,Tul'skaya oblast',administrative region,Tulskaja Oblast,RU-TUL*,17875,190,RU,RUS
-Russian Federation,RU-TVE,Tverskaya oblast',administrative region,Tverskaja Oblast,RU-TVE*,17910,190,RU,RUS
-Russian Federation,RU-TYU,Tyumenskaya oblast',administrative region,"Tjumenskaja Oblast, Tumen, Tjumen",RU-TYU*,17874,190,RU,RUS
-Russian Federation,RU-TY,"Tyva, Respublika [Tuva]",republic,Tuva,RU-TY*,17909,190,RU,RUS
-Russian Federation,RU-UD,Udmurtskaya Respublika,republic,"Udmurt Republic, Udmurtskaya Respublika, Udmurtija",RU-UD*,17876,190,RU,RUS
-Russian Federation,RU-ULY,Ul'yanovskaya oblast',administrative region,"Uljanovskaja Oblast, Uljanovsk",RU-ULY*,17908,190,RU,RUS
-Russian Federation,RU-VLA,Vladimirskaya oblast',administrative region,Vladimirskaja Oblast,RU-VLA*,17877,190,RU,RUS
-Russian Federation,RU-VGG,Volgogradskaya oblast',administrative region,Volgogradskaja Oblast,RU-VGG*,17907,190,RU,RUS
-Russian Federation,RU-VLG,Vologodskaya oblast',administrative region,Vologodskaja Oblast,RU-VLG*,17823,190,RU,RUS
-Russian Federation,RU-VOR,Voronezhskaya oblast',administrative region,"Voronežskaja Oblast, Voronež",RU-VOR*,17878,190,RU,RUS
-Russian Federation,RU-YAN,Yamalo-Nenetskiy avtonomnyy okrug,autonomous district,"Jamalija, Jamalo-Nenetskij Avtonomnyj Okrug, Jamalo-Nenets",RU-YAN*,17896,190,RU,RUS
-Russian Federation,RU-YAR,Yaroslavskaya oblast',administrative region,"Jaroslavskaja Oblast, Jaroslavl",RU-YAR*,17897,190,RU,RUS
-Russian Federation,RU-YEV,Yevreyskaya avtonomnaya oblast',autonomous region,"Jevrejskaja Oblast, Jevrejskaja Respublika, Jewish Autonomous Oblast, Yevreyskaya Oblast, Jevrej",RU-YEV*,17898,190,RU,RUS
-Russian Federation,RU-ZAB,Zabajkal'skij kraj,administrative territory,Zabajkal'skij kraj,RU-ZAB*,48221,190,RU,RUS
+Russia,RU-AD,"Adygeya, Respublika",republic,"Adygei Republic, Adygeja",RU-AD*,17879,190,RU,RUS
+Russia,RU-AL,"Altay, Respublika",republic,"Altaj, Altay, Gorno-Altaj",RU-AL*,17857,190,RU,RUS
+Russia,RU-ALT,Altayskiy kray,administrative territory,"Altai Kray, Altajskij Kray, Altajskiy Kraj, Altaj",RU-ALT*,17881,190,RU,RUS
+Russia,RU-AMU,Amurskaya oblast',administrative region,Amurskaja Oblast,RU-AMU*,17882,190,RU,RUS
+Russia,RU-ARK,Arkhangel'skaya oblast',administrative region,"Arhangelskaja Oblast, Arhangelsk",RU-ARK*,17853,190,RU,RUS
+Russia,RU-AST,Astrakhanskaya oblast',administrative region,"Astrahanska Oblast, Astrahan",RU-AST*,17883,190,RU,RUS
+Russia,RU-BA,"Bashkortostan, Respublika",republic,Baškortostan,RU-BA*,17884,190,RU,RUS
+Russia,RU-BEL,Belgorodskaya oblast',administrative region,Belgorodskaja Oblast,RU-BEL*,17854,190,RU,RUS
+Russia,RU-BRY,Bryanskaya oblast',administrative region,"Brjanskaja Oblast, Brjansk",RU-BRY*,17885,190,RU,RUS
+Russia,RU-BU,"Buryatiya, Respublika",republic,"Buryat Republic, Burjatija",RU-BU*,17886,190,RU,RUS
+Russia,RU-CE,Chechenskaya Respublika,republic,"Chechen, Chechenia, Ichkeria, Ičkeria, Čečens, Čečenskaja Respublika, Čečenija",RU-CE*,17855,190,RU,RUS
+Russia,RU-CHE,Chelyabinskaya oblast',administrative region,"Cheljabinsk, Čeljabinskaja Oblast, Čeljabinsk",RU-CHE*,17887,190,RU,RUS
+Russia,RU-CHU,Chukotskiy avtonomnyy okrug,autonomous district,"Chuckchi, Čukotskij Avtonomnyj Okrug, Čukči, Čukotka",RU-CHU*,17889,190,RU,RUS
+Russia,RU-CU,Chuvashskaya Respublika,republic,"Chuvash Republic, Chuvashskaya Respublika, Čuvašskaja Respublika, Čuvašija",RU-CU*,17856,190,RU,RUS
+Russia,RU-DA,"Dagestan, Respublika",republic,,RU-DA*,17890,190,RU,RUS
+Russia,RU-IN,Ingushskaya Respublika [Respublika Ingushetiya],republic,"Ingushetija, Ingušetija",RU-IN*,17894,190,RU,RUS
+Russia,RU-IRK,Irkutskaya oblast',administrative region,Irkutskaja Oblast,RU-IRK*,17895,190,RU,RUS
+Russia,RU-IVA,Ivanovskaya oblast',administrative region,Ivanovskaja Oblast,RU-IVA*,17859,190,RU,RUS
+Russia,RU-KB,Kabardino-Balkarskaya Respublika,republic,"Kabardino-Balkarian Republic, Kabardino-Balkarskaja Respublika, Kabardino-Balkarija",RU-KB*,17899,190,RU,RUS
+Russia,RU-KGD,Kaliningradskaya oblast',administrative region,Kaliningradskaja Oblast,RU-KGD*,17900,190,RU,RUS
+Russia,RU-KL,"Kalmykiya, Respublika",republic,"Halmg-Tangč, Kalmyk Republic, Khalmg-Tangch, Kalmykija",RU-KL*,17901,190,RU,RUS
+Russia,RU-KLU,Kaluzhskaya oblast',administrative region,"Kaluzhskaya Oblast, Kalužskaja Oblast",RU-KLU*,17902,190,RU,RUS
+Russia,RU-KAM,Kamchatskaya oblast',administrative territory,"Kamchatskaya Oblast, Kamčatskaja Oblast, Kamčatka",RU-KAM*,17903,190,RU,RUS
+Russia,RU-KC,Karachayevo-Cherkesskaya Respublika,republic,"Karachay-Cherkessian, Karačajevo-Čerkesskaja Respublika, Karačaj-Čerkessija",RU-KC*,17904,190,RU,RUS
+Russia,RU-KR,"Kareliya, Respublika",republic,"Karelian Republic, Karelija",RU-KR*,17905,190,RU,RUS
+Russia,RU-KEM,Kemerovskaya oblast',administrative region,Kemerovskaja Oblast,RU-KEM*,17843,190,RU,RUS
+Russia,RU-KHA,Khabarovskiy kray,administrative territory,"Habarovskij Kray, Habarovsk",RU-KHA*,17892,190,RU,RUS
+Russia,RU-KK,"Khakasiya, Respublika",republic,"Khakass Republic, Hakasija",RU-KK*,17893,190,RU,RUS
+Russia,RU-KHM,Khanty-Mansiyskiy avtonomnyy okrug [Yugra],autonomous district,"Hanty-Mansijskij Avtonomnyj Okrug, Hanty-Mansija",RU-KHM*,17858,190,RU,RUS
+Russia,RU-KIR,Kirovskaya oblast',administrative region,Kirovskaja Oblast,RU-KIR*,17844,190,RU,RUS
+Russia,RU-KO,"Komi, Respublika",republic,,RU-KO*,17845,190,RU,RUS
+Russia,RU-X1~,Komi-Permyak,,"Komi-Permjatskij Avtonomnyj Okrug, Komi-Permjak",RU-X1~,17846,190,RU,RUS
+Russia,RU-KOS,Kostromskaya oblast',administrative region,Kostromskaja Oblast,RU-KOS*,17847,190,RU,RUS
+Russia,RU-KDA,Krasnodarskiy kray,administrative territory,Krasnodarskij Kraj,RU-KDA*,17861,190,RU,RUS
+Russia,RU-KYA,Krasnoyarskiy kray,administrative territory,"Krasnojarsk, Krasnojarskij Kraj, Krasnojarsk",RU-KYA*,17848,190,RU,RUS
+Russia,RU-KGN,Kurganskaya oblast',administrative region,Kurganskaja Oblast,RU-KGN*,17849,190,RU,RUS
+Russia,RU-KRS,Kurskaya oblast',administrative region,Kurskaja Oblast,RU-KRS*,17862,190,RU,RUS
+Russia,RU-LEN,Leningradskaya oblast',administrative region,Leningradskaja Oblast,RU-LEN*,17850,190,RU,RUS
+Russia,RU-LIP,Lipetskaya oblast',administrative region,"Lipeckaja Oblast, Lipeck",RU-LIP*,17863,190,RU,RUS
+Russia,RU-MAG,Magadanskaya oblast',administrative region,Magadanskaja Oblast,RU-MAG*,17851,190,RU,RUS
+Russia,RU-ME,"Mariy El, Respublika",republic,"Mariy El, Marij El",RU-ME*,17834,190,RU,RUS
+Russia,RU-MO,"Mordoviya, Respublika",republic,"Mordovian Republic, Mordovija",RU-MO*,17864,190,RU,RUS
+Russia,RU-MOS,Moskovskaya oblast',administrative region,"Moskva, Moskau, Moscou, Moscú",RU-MOS*,17836,190,RU,RUS
+Russia,RU-MOW,Moskva,autonomous city,Moskovskaja Oblast,RU-MOW,17835,190,RU,RUS
+Russia,RU-MUR,Murmanskaya oblast',administrative region,Murmanskaja Oblast,RU-MUR*,17865,190,RU,RUS
+Russia,RU-NEN,Nenetskiy avtonomnyy okrug,autonomous district,Nenetskij Avtonomnyj Okrug,RU-NEN*,17837,190,RU,RUS
+Russia,RU-NIZ,Nizhegorodskaya oblast',administrative region,"Gorki, Gorkij, Gorky, Nizhegorodskaya Oblast, Nižegorodskaja Oblast, Nižnij Novgorod",RU-NIZ*,17838,190,RU,RUS
+Russia,RU-NGR,Novgorodskaya oblast',administrative region,Novgorodskaja Oblast,RU-NGR*,17866,190,RU,RUS
+Russia,RU-NVS,Novosibirskaya oblast',administrative region,Novosibirskaja Oblast,RU-NVS*,17839,190,RU,RUS
+Russia,RU-OMS,Omskaya oblast',administrative region,Omskaja Oblast,RU-OMS*,17867,190,RU,RUS
+Russia,RU-ORE,Orenburgskaya oblast',administrative region,Orenburgskaja Oblast,RU-ORE*,17840,190,RU,RUS
+Russia,RU-ORL,Orlovskaya oblast',administrative region,"Orlovskaja Oblast, Orjol",RU-ORL*,17841,190,RU,RUS
+Russia,RU-PNZ,Penzenskaya oblast',administrative region,Penzenskaja Oblast,RU-PNZ*,17868,190,RU,RUS
+Russia,RU-PER,Perm,administrative territory,Permskaja Oblast,RU-PER*,17842,190,RU,RUS
+Russia,RU-PRI,Primorskiy kray,administrative territory,"Primorskij, Primorskij Kraj, Primorje",RU-PRI*,17825,190,RU,RUS
+Russia,RU-PSK,Pskovskaya oblast',administrative region,"Pihkva, Pleskau, Pskovskaja Oblast",RU-PSK*,17869,190,RU,RUS
+Russia,RU-ROS,Rostovskaya oblast',administrative region,Rostovskaja Oblast,RU-ROS*,17870,190,RU,RUS
+Russia,RU-RYA,Ryazanskaya oblast',administrative region,"Rjazanskaja Oblast, Rjazan",RU-RYA*,17826,190,RU,RUS
+Russia,RU-SA,"Sakha, Respublika [Yakutiya]",republic,"Jakutija, Sakha, Yakutsk-Sakha, Saha",RU-SA*,17827,190,RU,RUS
+Russia,RU-SAK,Sakhalinskaya oblast',administrative region,"Sahalinskaya Oblast, Sahalin",RU-SAK*,17828,190,RU,RUS
+Russia,RU-SAM,Samarskaya oblast',administrative region,Samarskaja Oblast,RU-SAM*,17871,190,RU,RUS
+Russia,RU-SPE,Sankt-Peterburg,autonomous city,"San Pietroburgo, Sankt-Peterburg, Sankt Petersburg, Saint-Pétersbourg, San Petersburgo",RU-SPE*,17829,190,RU,RUS
+Russia,RU-SAR,Saratovskaya oblast',administrative region,Saratovskaja Oblast,RU-SAR*,17872,190,RU,RUS
+Russia,RU-SE,"Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]",republic,"Alania, North Ossetian Republic, Osetija, Alanija",RU-SE*,17852,190,RU,RUS
+Russia,RU-SMO,Smolenskaya oblast',administrative region,Smolenskaja Oblast,RU-SMO*,17830,190,RU,RUS
+Russia,RU-STA,Stavropol'skiy kray,administrative territory,Stavropolskij Kraj,RU-STA*,17831,190,RU,RUS
+Russia,RU-SVE,Sverdlovskaya oblast',administrative region,Sverdlovskaja Oblast,RU-SVE*,17832,190,RU,RUS
+Russia,RU-TAM,Tambovskaya oblast',administrative region,Tambovskaja Oblast,RU-TAM*,17833,190,RU,RUS
+Russia,RU-TA,"Tatarstan, Respublika",republic,,RU-TA*,17824,190,RU,RUS
+Russia,RU-TOM,Tomskaya oblast',administrative region,Tomskaja Oblast,RU-TOM*,17906,190,RU,RUS
+Russia,RU-TUL,Tul'skaya oblast',administrative region,Tulskaja Oblast,RU-TUL*,17875,190,RU,RUS
+Russia,RU-TVE,Tverskaya oblast',administrative region,Tverskaja Oblast,RU-TVE*,17910,190,RU,RUS
+Russia,RU-TYU,Tyumenskaya oblast',administrative region,"Tjumenskaja Oblast, Tumen, Tjumen",RU-TYU*,17874,190,RU,RUS
+Russia,RU-TY,"Tyva, Respublika [Tuva]",republic,Tuva,RU-TY*,17909,190,RU,RUS
+Russia,RU-UD,Udmurtskaya Respublika,republic,"Udmurt Republic, Udmurtskaya Respublika, Udmurtija",RU-UD*,17876,190,RU,RUS
+Russia,RU-ULY,Ul'yanovskaya oblast',administrative region,"Uljanovskaja Oblast, Uljanovsk",RU-ULY*,17908,190,RU,RUS
+Russia,RU-VLA,Vladimirskaya oblast',administrative region,Vladimirskaja Oblast,RU-VLA*,17877,190,RU,RUS
+Russia,RU-VGG,Volgogradskaya oblast',administrative region,Volgogradskaja Oblast,RU-VGG*,17907,190,RU,RUS
+Russia,RU-VLG,Vologodskaya oblast',administrative region,Vologodskaja Oblast,RU-VLG*,17823,190,RU,RUS
+Russia,RU-VOR,Voronezhskaya oblast',administrative region,"Voronežskaja Oblast, Voronež",RU-VOR*,17878,190,RU,RUS
+Russia,RU-YAN,Yamalo-Nenetskiy avtonomnyy okrug,autonomous district,"Jamalija, Jamalo-Nenetskij Avtonomnyj Okrug, Jamalo-Nenets",RU-YAN*,17896,190,RU,RUS
+Russia,RU-YAR,Yaroslavskaya oblast',administrative region,"Jaroslavskaja Oblast, Jaroslavl",RU-YAR*,17897,190,RU,RUS
+Russia,RU-YEV,Yevreyskaya avtonomnaya oblast',autonomous region,"Jevrejskaja Oblast, Jevrejskaja Respublika, Jewish Autonomous Oblast, Yevreyskaya Oblast, Jevrej",RU-YEV*,17898,190,RU,RUS
+Russia,RU-ZAB,Zabajkal'skij kraj,administrative territory,Zabajkal'skij kraj,RU-ZAB*,48221,190,RU,RUS
 Rwanda,RW-02,Est,province,,RW-02*,19063,191,RW,RWA
 Rwanda,RW-03,Nord,province,,RW-03*,19064,191,RW,RWA
 Rwanda,RW-04,Ouest,province,,RW-04*,19065,191,RW,RWA
@@ -4005,73 +4005,73 @@ Switzerland,CH-VS,Valais (fr),Canton,"Vallese, Wallis",CH-VS,18272,219,CH,CHE
 Switzerland,CH-VD,Vaud (fr),Canton,Waadt,CH-VD,18255,219,CH,CHE
 Switzerland,CH-ZG,Zug (de),Canton,Zoug,CH-ZG,18273,219,CH,CHE
 Switzerland,CH-ZH,Zürich (de),Canton,"Zurigo, Zürich, Zurich",CH-ZH,18256,219,CH,CHE
-Syrian Arab Republic,SY-HL,?alab,Province,"Halab, Haleb, H̨alab, Alep",SY-HL*,18285,220,SY,SYR
-Syrian Arab Republic,SY-HM,?amah,Province,"Hama, Hamah",SY-HM*,18293,220,SY,SYR
-Syrian Arab Republic,SY-HI,?ims,Province,"Hims, Homs",SY-HI*,18284,220,SY,SYR
-Syrian Arab Republic,SY-HA,Al ?asakah,Province,"El Haseke, Hassetche, H̨asakah, al-Hasakah",SY-HA*,18288,220,SY,SYR
-Syrian Arab Republic,SY-LA,Al Ladhiqiyah,Province,"Latakia, Lattakia, Lattaquié, Lādhiqīyah, al-Ladhiqiyah",SY-LA*,18289,220,SY,SYR
-Syrian Arab Republic,SY-QU,Al Qunaytirah,Province,"Quneitra, al-Qunaytirah",SY-QU*,18290,220,SY,SYR
-Syrian Arab Republic,SY-RA,Ar Raqqah,Province,"Raqqah, al-Rakka",SY-RA*,18282,220,SY,SYR
-Syrian Arab Republic,SY-SU,As Suwayda',Province,as-Suwayda,SY-SU*,18291,220,SY,SYR
-Syrian Arab Republic,SY-DR,Dar?a,Province,"Dara, Darā, Darʿa, Deraa, Dārayyā",SY-DR*,18286,220,SY,SYR
-Syrian Arab Republic,SY-DY,Dayr az Zawr,Province,"Deir El-Zor, Deir-ez-Zor",SY-DY*,18292,220,SY,SYR
-Syrian Arab Republic,SY-DI,Dimashq,Province,"Dimashq, Madīnat Dimašq, Damaskus, Damas",SY-DI*,18283,220,SY,SYR
-Syrian Arab Republic,SY-ID,Idlib,Province,,SY-ID*,18294,220,SY,SYR
-Syrian Arab Republic,SY-RD,Rif Dimashq,Province,"Dimashq, Dimašq, Damaskus, Damas, Damascus",SY-RD*,18287,220,SY,SYR
-Syrian Arab Republic,SY-TA,Tartus,Province,"Tartoûs, Tartus",SY-TA*,18281,220,SY,SYR
-"Taiwan, Province Of China",TW-CHA,Changhua,district,Changhua,TW-CHA*,18312,221,TW,TWN
-"Taiwan, Province Of China",TW-CYQ,Chiayi,district,,TW-CYQ*,18313,221,TW,TWN
-"Taiwan, Province Of China",TW-CYI,Chiayi Municipality,municipality,Chiai,TW-CYI,18308,221,TW,TWN
-"Taiwan, Province Of China",TW-HSQ,Hsinchu,district,,TW-HSQ*,18310,221,TW,TWN
-"Taiwan, Province Of China",TW-HSZ,Hsinchu Municipality,municipality,,TW-HSZ,18309,221,TW,TWN
-"Taiwan, Province Of China",TW-HUA,Hualien,district,Hualian,TW-HUA*,18314,221,TW,TWN
-"Taiwan, Province Of China",TW-ILA,Ilan,district,,TW-ILA*,18311,221,TW,TWN
-"Taiwan, Province Of China",TW-KHQ,Kaohsiung,district,,TW-KHQ*,18315,221,TW,TWN
-"Taiwan, Province Of China",TW-KHH,Kaohsiung Special Municipality,special municipality,,TW-KHH,18320,221,TW,TWN
-"Taiwan, Province Of China",TW-KEE,Keelung Municipality,municipality,Chilung Shih,TW-KEE*,18316,221,TW,TWN
-"Taiwan, Province Of China",TW-MIA,Miaoli,district,,TW-MIA*,18317,221,TW,TWN
-"Taiwan, Province Of China",TW-NAN,Nantou,district,,TW-NAN*,18323,221,TW,TWN
-"Taiwan, Province Of China",TW-PEN,Penghu,district,,TW-PEN*,18324,221,TW,TWN
-"Taiwan, Province Of China",TW-PIF,Pingtung,district,,TW-PIF,18318,221,TW,TWN
-"Taiwan, Province Of China",TW-TXQ,Taichung,district,,TW-TXQ*,18307,221,TW,TWN
-"Taiwan, Province Of China",TW-TXG,Taichung Municipality,municipality,,TW-TXG,18325,221,TW,TWN
-"Taiwan, Province Of China",TW-TNQ,Tainan,district,,TW-TNQ*,18306,221,TW,TWN
-"Taiwan, Province Of China",TW-TNN,Tainan Municipality,municipality,,TW-TNN,18319,221,TW,TWN
-"Taiwan, Province Of China",TW-TPQ,Taipei,district,,TW-TPQ*,18305,221,TW,TWN
-"Taiwan, Province Of China",TW-TPE,Taipei Special Municipality,special municipality,,TW-TPE,18326,221,TW,TWN
-"Taiwan, Province Of China",TW-TTT,Taitung,district,Taidong,TW-TTT,18304,221,TW,TWN
-"Taiwan, Province Of China",TW-TAO,Taoyuan,district,,TW-TAO*,18303,221,TW,TWN
-"Taiwan, Province Of China",TW-YUN,Yunlin,district,,TW-YUN*,18302,221,TW,TWN
+Syria,SY-HL,?alab,Province,"Halab, Haleb, H̨alab, Alep",SY-HL*,18285,220,SY,SYR
+Syria,SY-HM,?amah,Province,"Hama, Hamah",SY-HM*,18293,220,SY,SYR
+Syria,SY-HI,?ims,Province,"Hims, Homs",SY-HI*,18284,220,SY,SYR
+Syria,SY-HA,Al ?asakah,Province,"El Haseke, Hassetche, H̨asakah, al-Hasakah",SY-HA*,18288,220,SY,SYR
+Syria,SY-LA,Al Ladhiqiyah,Province,"Latakia, Lattakia, Lattaquié, Lādhiqīyah, al-Ladhiqiyah",SY-LA*,18289,220,SY,SYR
+Syria,SY-QU,Al Qunaytirah,Province,"Quneitra, al-Qunaytirah",SY-QU*,18290,220,SY,SYR
+Syria,SY-RA,Ar Raqqah,Province,"Raqqah, al-Rakka",SY-RA*,18282,220,SY,SYR
+Syria,SY-SU,As Suwayda',Province,as-Suwayda,SY-SU*,18291,220,SY,SYR
+Syria,SY-DR,Dar?a,Province,"Dara, Darā, Darʿa, Deraa, Dārayyā",SY-DR*,18286,220,SY,SYR
+Syria,SY-DY,Dayr az Zawr,Province,"Deir El-Zor, Deir-ez-Zor",SY-DY*,18292,220,SY,SYR
+Syria,SY-DI,Dimashq,Province,"Dimashq, Madīnat Dimašq, Damaskus, Damas",SY-DI*,18283,220,SY,SYR
+Syria,SY-ID,Idlib,Province,,SY-ID*,18294,220,SY,SYR
+Syria,SY-RD,Rif Dimashq,Province,"Dimashq, Dimašq, Damaskus, Damas, Damascus",SY-RD*,18287,220,SY,SYR
+Syria,SY-TA,Tartus,Province,"Tartoûs, Tartus",SY-TA*,18281,220,SY,SYR
+"Taiwan",TW-CHA,Changhua,district,Changhua,TW-CHA*,18312,221,TW,TWN
+"Taiwan",TW-CYQ,Chiayi,district,,TW-CYQ*,18313,221,TW,TWN
+"Taiwan",TW-CYI,Chiayi Municipality,municipality,Chiai,TW-CYI,18308,221,TW,TWN
+"Taiwan",TW-HSQ,Hsinchu,district,,TW-HSQ*,18310,221,TW,TWN
+"Taiwan",TW-HSZ,Hsinchu Municipality,municipality,,TW-HSZ,18309,221,TW,TWN
+"Taiwan",TW-HUA,Hualien,district,Hualian,TW-HUA*,18314,221,TW,TWN
+"Taiwan",TW-ILA,Ilan,district,,TW-ILA*,18311,221,TW,TWN
+"Taiwan",TW-KHQ,Kaohsiung,district,,TW-KHQ*,18315,221,TW,TWN
+"Taiwan",TW-KHH,Kaohsiung Special Municipality,special municipality,,TW-KHH,18320,221,TW,TWN
+"Taiwan",TW-KEE,Keelung Municipality,municipality,Chilung Shih,TW-KEE*,18316,221,TW,TWN
+"Taiwan",TW-MIA,Miaoli,district,,TW-MIA*,18317,221,TW,TWN
+"Taiwan",TW-NAN,Nantou,district,,TW-NAN*,18323,221,TW,TWN
+"Taiwan",TW-PEN,Penghu,district,,TW-PEN*,18324,221,TW,TWN
+"Taiwan",TW-PIF,Pingtung,district,,TW-PIF,18318,221,TW,TWN
+"Taiwan",TW-TXQ,Taichung,district,,TW-TXQ*,18307,221,TW,TWN
+"Taiwan",TW-TXG,Taichung Municipality,municipality,,TW-TXG,18325,221,TW,TWN
+"Taiwan",TW-TNQ,Tainan,district,,TW-TNQ*,18306,221,TW,TWN
+"Taiwan",TW-TNN,Tainan Municipality,municipality,,TW-TNN,18319,221,TW,TWN
+"Taiwan",TW-TPQ,Taipei,district,,TW-TPQ*,18305,221,TW,TWN
+"Taiwan",TW-TPE,Taipei Special Municipality,special municipality,,TW-TPE,18326,221,TW,TWN
+"Taiwan",TW-TTT,Taitung,district,Taidong,TW-TTT,18304,221,TW,TWN
+"Taiwan",TW-TAO,Taoyuan,district,,TW-TAO*,18303,221,TW,TWN
+"Taiwan",TW-YUN,Yunlin,district,,TW-YUN*,18302,221,TW,TWN
 Tajikistan,TJ-GB,Gorno-Badakhshan,autonomous region,Gorno-Badahşan,TJ-GB*,18331,222,TJ,TJK
 Tajikistan,TJ-KT,Khatlon,region,Hatlon,TJ-KT*,18327,222,TJ,TJK
 Tajikistan,TJ-SU,Sughd,region,"Chudjand, Hucand, Hudžand, Hücand, Khodzent, Khodzhent, Khudzhand, Leninabad",TJ-SU*,18330,222,TJ,TJK
 Tajikistan,Tj-X1~,,city,"Dushambe, Dushanbe, Dušanbe, Düşanbey",Tj-X1~,18329,222,TJ,TJK
-"Tanzania, United Republic of",TZ-01,Arusha,Region,,TZ-01,18349,223,TZ,TZA
-"Tanzania, United Republic of",TZ-02,Dar es Salaam,Region,Daressalam,TZ-02,18350,223,TZ,TZA
-"Tanzania, United Republic of",TZ-03,Dodoma,Region,,TZ-03,18351,223,TZ,TZA
-"Tanzania, United Republic of",TZ-04,Iringa,Region,,TZ-04,18352,223,TZ,TZA
-"Tanzania, United Republic of",TZ-05,Kagera,Region,"Akagera, Ziwa Magharibi",TZ-05,18338,223,TZ,TZA
-"Tanzania, United Republic of",TZ-06,Kaskazini Pemba,Region,,TZ-06,18333,223,TZ,TZA
-"Tanzania, United Republic of",TZ-07,Kaskazini Unguja,Region,Unguja,TZ-07,19095,223,TZ,TZA
-"Tanzania, United Republic of",TZ-08,Kigoma,Region,,TZ-08,18339,223,TZ,TZA
-"Tanzania, United Republic of",TZ-09,Kilimanjaro,Region,,TZ-09,18340,223,TZ,TZA
-"Tanzania, United Republic of",TZ-10,Kusini Pemba,Region,,TZ-10,19096,223,TZ,TZA
-"Tanzania, United Republic of",TZ-11,Kusini Unguja,Region,,TZ-11,19097,223,TZ,TZA
-"Tanzania, United Republic of",TZ-12,Lindi,Region,,TZ-12,18353,223,TZ,TZA
-"Tanzania, United Republic of",TZ-26,Manyara,Region,,TZ-26*,18341,223,TZ,TZA
-"Tanzania, United Republic of",TZ-13,Mara,Region,,TZ-13,18342,223,TZ,TZA
-"Tanzania, United Republic of",TZ-14,Mbeya,Region,,TZ-14,18337,223,TZ,TZA
-"Tanzania, United Republic of",TZ-15,Mjini Magharibi,Region,,TZ-15,19098,223,TZ,TZA
-"Tanzania, United Republic of",TZ-16,Morogoro,Region,,TZ-16,18343,223,TZ,TZA
-"Tanzania, United Republic of",TZ-17,Mtwara,Region,Mtware,TZ-17,18354,223,TZ,TZA
-"Tanzania, United Republic of",TZ-18,Mwanza,Region,,TZ-18,18344,223,TZ,TZA
-"Tanzania, United Republic of",TZ-19,Pwani,Region,Coast,TZ-19,18345,223,TZ,TZA
-"Tanzania, United Republic of",TZ-20,Rukwa,Region,,TZ-20,18336,223,TZ,TZA
-"Tanzania, United Republic of",TZ-21,Ruvuma,Region,,TZ-21,18346,223,TZ,TZA
-"Tanzania, United Republic of",TZ-22,Shinyanga,Region,,TZ-22,18347,223,TZ,TZA
-"Tanzania, United Republic of",TZ-23,Singida,Region,,TZ-23,18335,223,TZ,TZA
-"Tanzania, United Republic of",TZ-24,Tabora,Region,,TZ-24,18348,223,TZ,TZA
-"Tanzania, United Republic of",TZ-25,Tanga,Region,,TZ-25,18334,223,TZ,TZA
+"Tanzania",TZ-01,Arusha,Region,,TZ-01,18349,223,TZ,TZA
+"Tanzania",TZ-02,Dar es Salaam,Region,Daressalam,TZ-02,18350,223,TZ,TZA
+"Tanzania",TZ-03,Dodoma,Region,,TZ-03,18351,223,TZ,TZA
+"Tanzania",TZ-04,Iringa,Region,,TZ-04,18352,223,TZ,TZA
+"Tanzania",TZ-05,Kagera,Region,"Akagera, Ziwa Magharibi",TZ-05,18338,223,TZ,TZA
+"Tanzania",TZ-06,Kaskazini Pemba,Region,,TZ-06,18333,223,TZ,TZA
+"Tanzania",TZ-07,Kaskazini Unguja,Region,Unguja,TZ-07,19095,223,TZ,TZA
+"Tanzania",TZ-08,Kigoma,Region,,TZ-08,18339,223,TZ,TZA
+"Tanzania",TZ-09,Kilimanjaro,Region,,TZ-09,18340,223,TZ,TZA
+"Tanzania",TZ-10,Kusini Pemba,Region,,TZ-10,19096,223,TZ,TZA
+"Tanzania",TZ-11,Kusini Unguja,Region,,TZ-11,19097,223,TZ,TZA
+"Tanzania",TZ-12,Lindi,Region,,TZ-12,18353,223,TZ,TZA
+"Tanzania",TZ-26,Manyara,Region,,TZ-26*,18341,223,TZ,TZA
+"Tanzania",TZ-13,Mara,Region,,TZ-13,18342,223,TZ,TZA
+"Tanzania",TZ-14,Mbeya,Region,,TZ-14,18337,223,TZ,TZA
+"Tanzania",TZ-15,Mjini Magharibi,Region,,TZ-15,19098,223,TZ,TZA
+"Tanzania",TZ-16,Morogoro,Region,,TZ-16,18343,223,TZ,TZA
+"Tanzania",TZ-17,Mtwara,Region,Mtware,TZ-17,18354,223,TZ,TZA
+"Tanzania",TZ-18,Mwanza,Region,,TZ-18,18344,223,TZ,TZA
+"Tanzania",TZ-19,Pwani,Region,Coast,TZ-19,18345,223,TZ,TZA
+"Tanzania",TZ-20,Rukwa,Region,,TZ-20,18336,223,TZ,TZA
+"Tanzania",TZ-21,Ruvuma,Region,,TZ-21,18346,223,TZ,TZA
+"Tanzania",TZ-22,Shinyanga,Region,,TZ-22,18347,223,TZ,TZA
+"Tanzania",TZ-23,Singida,Region,,TZ-23,18335,223,TZ,TZA
+"Tanzania",TZ-24,Tabora,Region,,TZ-24,18348,223,TZ,TZA
+"Tanzania",TZ-25,Tanga,Region,,TZ-25,18334,223,TZ,TZA
 Thailand,TH-37,Amnat Charoen,province,,TH-37,18402,224,TH,THA
 Thailand,TH-15,Ang Thong,province,,TH-15,18403,224,TH,THA
 Thailand,TH-31,Buri Ram,province,,TH-31,18421,224,TH,THA
@@ -4764,31 +4764,31 @@ Vanuatu,VU-SAM,Sanma,Province,Santo-Malo,VU-SAM*,18730,244,VU,VUT
 Vanuatu,VU-SEE,Shéfa,Province,"Sandwich Island, Vaté, Éfaté",VU-SEE*,18727,244,VU,VUT
 Vanuatu,VU-TAE,Taféa,Province,,VU-TAE*,18725,244,VU,VUT
 Vanuatu,VU-TOB,Torba,Province,Banks-Torres,VU-TOB*,18729,244,VU,VUT
-"Venezuela, Bolivarian Republic of",VE-Z,Amazonas,state,,VE-Z,18735,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-B,Anzoátegui,state,,VE-B,18745,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-C,Apure,state,,VE-C,18746,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-D,Aragua,state,,VE-D,18736,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-E,Barinas,state,,VE-E,18747,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-F,Bolívar,state,,VE-F,18737,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-G,Carabobo,state,,VE-G,18748,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-H,Cojedes,state,,VE-H,18749,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-Y,Delta Amacuro,state,,VE-Y,18738,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-W,Dependencias Federales,federal dependency,,VE-W*,18750,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-A,Distrito Federal,federal district,,VE-A,18739,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-I,Falcón,state,,VE-I,18751,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-J,Guárico,state,,VE-J,18740,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-K,Lara,state,,VE-K,18741,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-M,Miranda,state,,VE-M,18743,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-N,Monagas,state,,VE-N,18744,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-L,Mérida,state,,VE-L,18742,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-O,Nueva Esparta,state,,VE-O,18734,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-P,Portuguesa,state,,VE-P,18752,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-R,Sucre,state,,VE-R,18733,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-T,Trujillo,state,,VE-T,20682,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-S,Táchira,state,,VE-S,20681,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-X,Vargas,state,,VE-X*,20683,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-U,Yaracuy,state,,VE-U,20680,245,VE,VEN
-"Venezuela, Bolivarian Republic of",VE-V,Zulia,state,,VE-V,20684,245,VE,VEN
+"Venezuela",VE-Z,Amazonas,state,,VE-Z,18735,245,VE,VEN
+"Venezuela",VE-B,Anzoátegui,state,,VE-B,18745,245,VE,VEN
+"Venezuela",VE-C,Apure,state,,VE-C,18746,245,VE,VEN
+"Venezuela",VE-D,Aragua,state,,VE-D,18736,245,VE,VEN
+"Venezuela",VE-E,Barinas,state,,VE-E,18747,245,VE,VEN
+"Venezuela",VE-F,Bolívar,state,,VE-F,18737,245,VE,VEN
+"Venezuela",VE-G,Carabobo,state,,VE-G,18748,245,VE,VEN
+"Venezuela",VE-H,Cojedes,state,,VE-H,18749,245,VE,VEN
+"Venezuela",VE-Y,Delta Amacuro,state,,VE-Y,18738,245,VE,VEN
+"Venezuela",VE-W,Dependencias Federales,federal dependency,,VE-W*,18750,245,VE,VEN
+"Venezuela",VE-A,Distrito Federal,federal district,,VE-A,18739,245,VE,VEN
+"Venezuela",VE-I,Falcón,state,,VE-I,18751,245,VE,VEN
+"Venezuela",VE-J,Guárico,state,,VE-J,18740,245,VE,VEN
+"Venezuela",VE-K,Lara,state,,VE-K,18741,245,VE,VEN
+"Venezuela",VE-M,Miranda,state,,VE-M,18743,245,VE,VEN
+"Venezuela",VE-N,Monagas,state,,VE-N,18744,245,VE,VEN
+"Venezuela",VE-L,Mérida,state,,VE-L,18742,245,VE,VEN
+"Venezuela",VE-O,Nueva Esparta,state,,VE-O,18734,245,VE,VEN
+"Venezuela",VE-P,Portuguesa,state,,VE-P,18752,245,VE,VEN
+"Venezuela",VE-R,Sucre,state,,VE-R,18733,245,VE,VEN
+"Venezuela",VE-T,Trujillo,state,,VE-T,20682,245,VE,VEN
+"Venezuela",VE-S,Táchira,state,,VE-S,20681,245,VE,VEN
+"Venezuela",VE-X,Vargas,state,,VE-X*,20683,245,VE,VEN
+"Venezuela",VE-U,Yaracuy,state,,VE-U,20680,245,VE,VEN
+"Venezuela",VE-V,Zulia,state,,VE-V,20684,245,VE,VEN
 Viet Nam,VN-44,An Giang,Province,,VN-44,18753,247,VN,VNM
 Viet Nam,VN-43,Ba Ria-Vung Tau,Province,,VN-43,18756,247,VN,VNM
 Viet Nam,VN-53,Bac Can,Province,,VN-53*,18755,247,VN,VNM
