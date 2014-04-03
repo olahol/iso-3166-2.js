@@ -4,6 +4,7 @@ npm-debug.log
 .git*
 parse.py
 data.csv
+codes.csv
 functions.js
 data.js
 Makefile

@@ -35,6 +35,11 @@ var functions = {
       code = parts[1];
     }
 
+    // ISO-3166-1 alpha 3 code?
+    if (country.length === 3) {
+      country = codes[country];
+    }
+
     var subCode = country + "-" + code;
 
     // This country code does not exist in our data set.
@@ -69,6 +74,8 @@ var functions = {
     record.countryName = data[country].name;
     record.countryCode = country;
     record.code = subCode;
+    record.regionCode = subCode.split("-").length === 2 ?
+      subCode.split("-")[1] : "";
 
     return record;
   },
@@ -76,6 +83,12 @@ var functions = {
   // Get a country and all its subdivision by its code.
   country: function (code) {
     code = code.trim().toUpperCase();
+
+
+    // is the input code in alpha 3?
+    if (code.length === 3) {
+      code = codes[code];
+    }
 
     if (!(code in data)) {
       return {};
@@ -88,7 +101,8 @@ var functions = {
   },
 
   // Raw data.
-  data: data
+  data: data,
+  codes: codes
 };
 
 if (typeof module === "object" && module !== null) {
