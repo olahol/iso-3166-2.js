@@ -14,7 +14,7 @@ test("country()", function (t) {
 });
 
 test("subdivison()", function (t) {
-  t.plan(45);
+  t.plan(50);
 
   var sub = iso3166.subdivision("SE-O");
   t.equal(sub.countryCode, "SE");
@@ -73,6 +73,13 @@ test("subdivison()", function (t) {
   t.equal(sub.name, "Västra Götalands län");
 
   sub = iso3166.subdivision("USA-Indiana");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
+
+  sub = iso3166.subdivision("US-Indiana");
   t.equal(sub.countryCode, "US");
   t.equal(sub.countryName, "United States");
   t.equal(sub.code, "US-IN");
