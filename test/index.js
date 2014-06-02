@@ -1,90 +1,81 @@
-var assert = require("assert")
+var test = require("tape")
   , iso3166 = require("../iso3166.min");
 
-describe("#country()", function(){
-  it("should get Sweden", function () {
-    var country = iso3166.country("SE");
-    assert.equal(country.code, "SE");
-    assert.equal(country.name, "Sweden");
-  });
+test("country()", function (t) {
+  t.plan(4);
 
-  it("should get Sweden", function () {
-    var country = iso3166.country("SWE");
-    assert.equal(country.code, "SE");
-    assert.equal(country.name, "Sweden");
-  });
+  var country = iso3166.country("SE");
+  t.equal(country.code, "SE");
+  t.equal(country.name, "Sweden");
+
+  country = iso3166.country("SWE");
+  t.equal(country.code, "SE");
+  t.equal(country.name, "Sweden");
 });
 
-describe("#subdivison()", function(){
-  it("should get a Västra Götaland", function () {
-    var sub = iso3166.subdivision("SE-O");
-    assert.equal(sub.countryCode, "SE");
-    assert.equal(sub.countryName, "Sweden");
-    assert.equal(sub.code, "SE-O");
-    assert.equal(sub.regionCode, "O");
-    assert.equal(sub.name, "Västra Götalands län");
-  });
+test("subdivison()", function (t) {
+  t.plan(45);
 
-  it("should get a Västra Götaland", function () {
-    var sub = iso3166.subdivision("SE", "O");
-    assert.equal(sub.countryCode, "SE");
-    assert.equal(sub.countryName, "Sweden");
-    assert.equal(sub.code, "SE-O");
-    assert.equal(sub.regionCode, "O");
-    assert.equal(sub.name, "Västra Götalands län");
-  });
+  var sub = iso3166.subdivision("SE-O");
+  t.equal(sub.countryCode, "SE");
+  t.equal(sub.countryName, "Sweden");
+  t.equal(sub.code, "SE-O");
+  t.equal(sub.regionCode, "O");
+  t.equal(sub.name, "Västra Götalands län");
 
-  it("should get a Indiana", function () {
-    var sub = iso3166.subdivision("US-IN");
-    assert.equal(sub.countryCode, "US");
-    assert.equal(sub.countryName, "United States");
-    assert.equal(sub.code, "US-IN");
-    assert.equal(sub.regionCode, "IN");
-    assert.equal(sub.name, "Indiana");
-  });
+  sub = iso3166.subdivision("SE", "O");
+  t.equal(sub.countryCode, "SE");
+  t.equal(sub.countryName, "Sweden");
+  t.equal(sub.code, "SE-O");
+  t.equal(sub.regionCode, "O");
+  t.equal(sub.name, "Västra Götalands län");
 
-  it("should get a Indiana", function () {
-    var sub = iso3166.subdivision("US", "IN");
-    assert.equal(sub.countryCode, "US");
-    assert.equal(sub.countryName, "United States");
-    assert.equal(sub.code, "US-IN");
-    assert.equal(sub.regionCode, "IN");
-    assert.equal(sub.name, "Indiana");
-  });
+  sub = iso3166.subdivision("US-IN");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
 
-  it("should get a Indiana", function () {
-    var sub = iso3166.subdivision("US-Indiana");
-    assert.equal(sub.countryCode, "US");
-    assert.equal(sub.countryName, "United States");
-    assert.equal(sub.code, "US-IN");
-    assert.equal(sub.regionCode, "IN");
-    assert.equal(sub.name, "Indiana");
-  });
+  sub = iso3166.subdivision("US", "IN");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
 
-  it("should get a Indiana", function () {
-    var sub = iso3166.subdivision("US", "Indiana");
-    assert.equal(sub.countryCode, "US");
-    assert.equal(sub.countryName, "United States");
-    assert.equal(sub.code, "US-IN");
-    assert.equal(sub.regionCode, "IN");
-    assert.equal(sub.name, "Indiana");
-  });
+  sub = iso3166.subdivision("US-Indiana");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
 
-  it("should get a Indiana", function () {
-    var sub = iso3166.subdivision("USA", "Indiana");
-    assert.equal(sub.countryCode, "US");
-    assert.equal(sub.countryName, "United States");
-    assert.equal(sub.code, "US-IN");
-    assert.equal(sub.regionCode, "IN");
-    assert.equal(sub.name, "Indiana");
-  });
+  sub = iso3166.subdivision("US", "Indiana");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
 
-  it("should get a Västra Götaland", function () {
-    var sub = iso3166.subdivision("SWE-O");
-    assert.equal(sub.countryCode, "SE");
-    assert.equal(sub.countryName, "Sweden");
-    assert.equal(sub.code, "SE-O");
-    assert.equal(sub.regionCode, "O");
-    assert.equal(sub.name, "Västra Götalands län");
-  });
+  sub = iso3166.subdivision("USA", "Indiana");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
+
+  sub = iso3166.subdivision("SWE-O");
+  t.equal(sub.countryCode, "SE");
+  t.equal(sub.countryName, "Sweden");
+  t.equal(sub.code, "SE-O");
+  t.equal(sub.regionCode, "O");
+  t.equal(sub.name, "Västra Götalands län");
+
+  sub = iso3166.subdivision("USA-Indiana");
+  t.equal(sub.countryCode, "US");
+  t.equal(sub.countryName, "United States");
+  t.equal(sub.code, "US-IN");
+  t.equal(sub.regionCode, "IN");
+  t.equal(sub.name, "Indiana");
 });

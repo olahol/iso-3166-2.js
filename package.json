@@ -9,8 +9,25 @@
     "type": "git",
     "url": "http://github.com/olahol/iso-3166-2.js.git"
   },
+  "devDependencies": {
+    "tape": "*"
+    , "matcha": "*"
+  },
   "scripts": {
-    "test": "make && mocha"
+    "test": "make && browserify test/index.js | testling -x 'firefox-trunk'"
+    , "bench": "make && matcha -R plain"
+  },
+  "testling": {
+    "files": "test/*.js"
+    , "browsers": [
+      "ie/8..latest"
+      , "chrome/22..latest"
+      , "firefox/16..latest"
+      , "safari/4..latest"
+      , "opera/10.0..latest"
+      , "iphone/6"
+      , "ipad/6"
+    ]
   },
   "licenses": [
     {

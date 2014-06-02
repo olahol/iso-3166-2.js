@@ -84,7 +84,6 @@ var functions = {
   country: function (code) {
     code = code.trim().toUpperCase();
 
-
     // is the input code in alpha 3?
     if (code.length === 3) {
       code = codes[code];

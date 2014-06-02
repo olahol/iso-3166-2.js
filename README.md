@@ -2,6 +2,9 @@
 
 Lookup information about ISO-3166-2 subdivisions.
 
+[![browser support](https://ci.testling.com/olahol/iso-3166-2.js.png)
+](https://ci.testling.com/olahol/iso-3166-2.js)
+
 ## Country code format
 
 The country codes in the data are in the ISO 3166-1 alpha 2 format (US,
@@ -100,7 +103,30 @@ The ISO 3166-1 alpha 3 to alpha 2 conversion table, the layout is:
 }
 ```
 
-# See Also
+## Benchmarks
+
+The filesize of the minified iso3166.js is `228Kb`.
+
+```
+$ matcha -R plain
+iso3166-2
+  #country(alpha 2) .............................. 1,597,632 op/s
+  #country(alpha 3) .............................. 1,220,571 op/s
+  #subdivision(alpha 2, code) .................... 1,332,394 op/s
+  #subdivision(alpha 3, code) .................... 1,325,290 op/s
+  #subdivision(alpha 2, name) .................... 1,352,375 op/s
+  #subdivision(alpha 3, name) .................... 1,211,155 op/s
+  #subdivision(alpha 2-code) ..................... 1,387,228 op/s
+  #subdivision(alpha 3-code) ..................... 1,358,836 op/s
+  #subdivision(alpha 2-name) ..................... 697,610 op/s
+  #subdivision(alpha 3-name) ..................... 677,438 op/s
+
+Suites:  1
+Benches: 10
+Elapsed: 14,535.80 ms
+```
+
+## See Also
 
 * https://github.com/oodavid/iso-3166-2
 * https://www.npmjs.org/package/country-list
