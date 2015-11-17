@@ -1,9 +1,10 @@
 # iso-3166-2.js
 
-Lookup information about ISO-3166-2 subdivisions.
+[![NPM version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Download Count][downloads-image]][downloads-url]
 
-[![browser support](https://ci.testling.com/olahol/iso-3166-2.js.png)
-](https://ci.testling.com/olahol/iso-3166-2.js)
+> Lookup information about ISO-3166-2 subdivisions.
 
 ## Country code format
 
@@ -12,6 +13,7 @@ SE ...), but there is a conversion table that makes possible to input
 alpha 3 codes (USA, SWE ...) to the `subdivision` and `country` functions.
 
 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+
 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
 
 ## Examples
@@ -103,31 +105,9 @@ The ISO 3166-1 alpha 3 to alpha 2 conversion table, the layout is:
 }
 ```
 
-## Benchmarks
-
-The filesize of the minified iso3166.js is `228Kb`.
-
-```
-$ matcha -R plain
-iso3166-2
-  #country(alpha 2) .............................. 1,597,632 op/s
-  #country(alpha 3) .............................. 1,220,571 op/s
-  #subdivision(alpha 2, code) .................... 1,332,394 op/s
-  #subdivision(alpha 3, code) .................... 1,325,290 op/s
-  #subdivision(alpha 2, name) .................... 1,352,375 op/s
-  #subdivision(alpha 3, name) .................... 1,211,155 op/s
-  #subdivision(alpha 2-code) ..................... 1,387,228 op/s
-  #subdivision(alpha 3-code) ..................... 1,358,836 op/s
-  #subdivision(alpha 2-name) ..................... 697,610 op/s
-  #subdivision(alpha 3-name) ..................... 677,438 op/s
-
-Suites:  1
-Benches: 10
-Elapsed: 14,535.80 ms
-```
-
-## See Also
-
-* https://github.com/oodavid/iso-3166-2
-* https://www.npmjs.org/package/country-list
-* https://www.npmjs.org/package/i18n-iso-countries
+[npm-image]: https://img.shields.io/npm/v/iso-3166-2.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/iso-3166-2
+[downloads-image]: http://img.shields.io/npm/dm/iso-3166-2.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/iso-3166-2
+[travis-image]: https://img.shields.io/travis/olahol/iso-3166-2.js/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/olahol/iso-3166-2.js
