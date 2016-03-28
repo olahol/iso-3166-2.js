@@ -1,7 +1,7 @@
 {
   "name": "iso-3166-2",
   "description": "Lookup information about ISO-3166-2 subdivisions.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Ola Holmström <olaholmstrom+github@gmail.com>",
   "keywords": [
     "iso3166",
