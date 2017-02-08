@@ -104,7 +104,11 @@ var functions = {
   codes: codes
 };
 
-if (typeof module === "object" && module !== null) {
+if (typeof define === 'function' && define.amd) {
+  define(function() {
+    return functions;
+  });
+} else if (typeof module === "object" && module !== null) {
   module.exports = functions;
 } else {
   window.iso3166 = functions;
