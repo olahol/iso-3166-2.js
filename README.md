@@ -105,6 +105,11 @@ The ISO 3166-1 alpha 3 to alpha 2 conversion table, the layout is:
 }
 ```
 
+## Contributors
+
+* Ola Holmström (@olahol)
+* Ben Ilegbodu (@benmvp)
+
 [npm-image]: https://img.shields.io/npm/v/iso-3166-2.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/iso-3166-2
 [downloads-image]: http://img.shields.io/npm/dm/iso-3166-2.svg?style=flat-square
