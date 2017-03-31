@@ -3,13 +3,18 @@ var test = require("tape");
 var iso3166 = require("../iso3166.min");
 
 test("country()", function (t) {
-  t.plan(4);
+  t.plan(6);
 
   var country = iso3166.country("SE");
+
   t.equal(country.code, "SE");
   t.equal(country.name, "Sweden");
 
   country = iso3166.country("SWE");
+  t.equal(country.code, "SE");
+  t.equal(country.name, "Sweden");
+
+  country = iso3166.country("Sweden");
   t.equal(country.code, "SE");
   t.equal(country.name, "Sweden");
 });

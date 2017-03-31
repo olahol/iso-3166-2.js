@@ -89,12 +89,28 @@ var functions = {
       code = codes[code];
     }
 
-    if (!(code in data)) {
-      return {};
+    if (code in data) {
+      var record = data[code];
+      record.code = code;
+
+      return record;
     }
 
-    var record = data[code];
-    record.code = code;
+    // If we could not find the country by its code try testing
+    // country names.
+    for (var countryCode in data) {
+      if (data.hasOwnProperty(countryCode) &&
+          data[countryCode].name.toUpperCase() === code.toUpperCase()) {
+        record = data[countryCode];
+        record.code = countryCode;
+        break;
+      }
+    }
+
+    // If we still couldn't find it return empty record.
+    if (typeof record === "undefined") {
+      return {};
+    }
 
     return record;
   },

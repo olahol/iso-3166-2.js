@@ -75,6 +75,11 @@ Retrieves a country by its code, ex "US", "SE", "SWE".
 
 * * *
 
+### iso3166.country(country name)
+Retrieves a country by its name, ex "United States", "Sweden".
+
+* * *
+
 ### iso3166.data
 
 The raw ISO 3166-2 data, the layout is:
@@ -109,6 +114,7 @@ The ISO 3166-1 alpha 3 to alpha 2 conversion table, the layout is:
 
 * Ola Holmström (@olahol)
 * Ben Ilegbodu (@benmvp)
+* David García (@davidgf)
 
 [npm-image]: https://img.shields.io/npm/v/iso-3166-2.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/iso-3166-2
