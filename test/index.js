@@ -3,7 +3,7 @@ var test = require("tape");
 var iso3166 = require("../iso3166.min");
 
 test("country()", function (t) {
-  t.plan(6);
+  t.plan(8);
 
   var country = iso3166.country("SE");
 
@@ -17,10 +17,16 @@ test("country()", function (t) {
   country = iso3166.country("Sweden");
   t.equal(country.code, "SE");
   t.equal(country.name, "Sweden");
+
+  country = iso3166.country("UN");
+  t.equal(country, null);
+
+  country = iso3166.country("United Nations");
+  t.equal(country, null);
 });
 
 test("subdivison()", function (t) {
-  t.plan(50);
+  t.plan(53);
 
   var sub = iso3166.subdivision("SE-O");
   t.equal(sub.countryCode, "SE");
@@ -91,6 +97,15 @@ test("subdivison()", function (t) {
   t.equal(sub.code, "US-IN");
   t.equal(sub.regionCode, "IN");
   t.equal(sub.name, "Indiana");
+
+  sub = iso3166.subdivision("UN-1");
+  t.equal(sub, null);
+
+  sub = iso3166.subdivision("UN", "1");
+  t.equal(sub, null);
+
+  sub = iso3166.subdivision("UNN-1");
+  t.equal(sub, null);
 });
 
 test("general", function (t) {
