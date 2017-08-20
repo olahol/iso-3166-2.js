@@ -30,6 +30,11 @@ https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
 ```
 
 ```js
+> iso3166.subdivision("UN-1");
+null
+```
+
+```js
 > iso3166.subdivision("SE", "O");
 
 { type: 'County',
@@ -51,32 +56,68 @@ https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
   code: 'US-IN' }
 ```
 
+```js
+> iso3166.country("Sweden");
+{ name: 'Sweden',
+  sub:
+   { 'SE-O': { type: 'County', name: 'Västra Götalands län' },
+     'SE-N': { type: 'County', name: 'Hallands län' },
+     'SE-M': { type: 'County', name: 'Skåne län' },
+     'SE-K': { type: 'County', name: 'Blekinge län' },
+     'SE-I': { type: 'County', name: 'Gotlands län' },
+     'SE-H': { type: 'County', name: 'Kalmar län' },
+     'SE-G': { type: 'County', name: 'Kronobergs län' },
+     'SE-F': { type: 'County', name: 'Jönköpings län' },
+     'SE-E': { type: 'County', name: 'Östergötlands län' },
+     'SE-D': { type: 'County', name: 'Södermanlands län' },
+     'SE-C': { type: 'County', name: 'Uppsala län' },
+     'SE-W': { type: 'County', name: 'Dalarnas län' },
+     'SE-Z': { type: 'County', name: 'Jämtlands län' },
+     'SE-Y': { type: 'County', name: 'Västernorrlands län' },
+     'SE-X': { type: 'County', name: 'Gävleborgs län' },
+     'SE-AC': { type: 'County', name: 'Västerbottens län' },
+     'SE-AB': { type: 'County', name: 'Stockholms län' },
+     'SE-BD': { type: 'County', name: 'Norrbottens län' },
+     'SE-T': { type: 'County', name: 'Örebro län' },
+     'SE-S': { type: 'County', name: 'Värmlands län' },
+     'SE-U': { type: 'County', name: 'Västmanlands län' } },
+  code: 'SE' }
+```
+
+```js
+> iso3166.country("United Nations");
+null
+```
+
 ## Functions
 
 ### iso3166.subdivision(code)
-Retrieves a subdivision by its full code, ex "SE-O", "US-IN".
+Retrieves a subdivision by its full code, ex "SE-O", "US-IN". Returns
+`null` if not found.
 
 * * *
 
 ### iso3166.subdivision(country code, subdivision code)
-Retrieves a subdivision by its country code and subdivision code,
-ex ("SWE", "O").
+Retrieves a subdivision by its country code and subdivision code, ex
+("SWE", "O"). Returns `null` if not found.
 
 * * *
 
 ### iso3166.subdivision(country code, subdivision name)
-Retrieves a subdivision by its country code and subdivision name,
-ex ("US", "Indiana").
+Retrieves a subdivision by its country code and subdivision name, ex
+("US", "Indiana"). Returns `null` if not found.
 
 * * *
 
 ### iso3166.country(country code)
-Retrieves a country by its code, ex "US", "SE", "SWE".
+Retrieves a country by its code, ex "US", "SE", "SWE". Returns `null`
+if not found.
 
 * * *
 
 ### iso3166.country(country name)
-Retrieves a country by its name, ex "United States", "Sweden".
+Retrieves a country by its name, ex "United States", "Sweden". Returns
+`null` if not found.
 
 * * *
 
@@ -115,6 +156,8 @@ The ISO 3166-1 alpha 3 to alpha 2 conversion table, the layout is:
 * Ola Holmström (@olahol)
 * Ben Ilegbodu (@benmvp)
 * David García (@davidgf)
+* lhchavez (@lhchavez)
+* Peter Pinch (@pdpinch)
 
 [npm-image]: https://img.shields.io/npm/v/iso-3166-2.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/iso-3166-2

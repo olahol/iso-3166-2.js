@@ -44,7 +44,7 @@ var functions = {
 
     // This country code does not exist in our data set.
     if (!(country in data)) {
-      return {};
+      return null;
     }
 
     // All of a countries subdivisions.
@@ -66,7 +66,7 @@ var functions = {
 
       // If we still couldn't find it return empty record.
       if (typeof record === "undefined") {
-        return {};
+        return null;
       }
     }
 
@@ -109,7 +109,7 @@ var functions = {
 
     // If we still couldn't find it return empty record.
     if (typeof record === "undefined") {
-      return {};
+      return null;
     }
 
     return record;

@@ -1,3 +1,9 @@
+# 1.0.0
+
+* Israeli names are now in English.
+* Update Mexican names.
+* Return `null` instead of `{}` when lookup fails for `country` and `subdivision`.
+
 # 0.6.0
 
 * Find country by name.
