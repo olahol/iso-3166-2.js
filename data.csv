@@ -777,40 +777,40 @@ Chile,CL-ML,Maule,Region,CL
 Chile,CL-RM,Región Metropolitana de Santiago,Region,CL
 Chile,CL-TA,Tarapacá,Region,CL
 Chile,CL-VS,Valparaíso,Region,CL
-China,CN-11,Beijing,Municipality,CN
-China,CN-12,Tianjin,Municipality,CN
-China,CN-13,Hebei,Province,CN
-China,CN-14,Shanxi,Province,CN
-China,CN-15,Nei Mongol,Autonomous region,CN
-China,CN-21,Liaoning,Province,CN
-China,CN-22,Jilin,Province,CN
-China,CN-23,Heilongjiang,Province,CN
-China,CN-31,Shanghai,Municipality,CN
-China,CN-32,Jiangsu,Province,CN
-China,CN-33,Zhejiang,Province,CN
-China,CN-34,Anhui,Province,CN
-China,CN-35,Fujian,Province,CN
-China,CN-36,Jiangxi,Province,CN
-China,CN-37,Shandong,Province,CN
-China,CN-41,Henan,Province,CN
-China,CN-42,Hubei,Province,CN
-China,CN-43,Hunan,Province,CN
-China,CN-44,Guangdong,Province,CN
-China,CN-45,Guangxi,Autonomous region,CN
-China,CN-46,Hainan,Province,CN
-China,CN-50,Chongqing,Municipality,CN
-China,CN-51,Sichuan,Province,CN
-China,CN-52,Guizhou,Province,CN
-China,CN-53,Yunnan,Province,CN
-China,CN-54,Xizang,Autonomous region,CN
-China,CN-61,Shaanxi,Province,CN
-China,CN-62,Gansu,Province,CN
-China,CN-63,Qinghai,Province,CN
-China,CN-64,Ningxia,Autonomous region,CN
-China,CN-65,Xinjiang,Autonomous region,CN
-China,CN-71,Taiwan,Province,CN
-China,CN-91,Hong Kong,Special administrative region,CN
-China,CN-92,Aomen,Special administrative region,CN
+China,CN-BJ,Beijing,Municipality,CN
+China,CN-TJ,Tianjin,Municipality,CN
+China,CN-HE,Hebei,Province,CN
+China,CN-SX,Shanxi,Province,CN
+China,CN-NM,Nei Mongol,Autonomous region,CN
+China,CN-LN,Liaoning,Province,CN
+China,CN-JL,Jilin,Province,CN
+China,CN-HL,Heilongjiang,Province,CN
+China,CN-SH,Shanghai,Municipality,CN
+China,CN-JS,Jiangsu,Province,CN
+China,CN-ZJ,Zhejiang,Province,CN
+China,CN-AH,Anhui,Province,CN
+China,CN-FJ,Fujian,Province,CN
+China,CN-JX,Jiangxi,Province,CN
+China,CN-SD,Shandong,Province,CN
+China,CN-HA,Henan,Province,CN
+China,CN-HB,Hubei,Province,CN
+China,CN-HN,Hunan,Province,CN
+China,CN-GD,Guangdong,Province,CN
+China,CN-GX,Guangxi,Autonomous region,CN
+China,CN-HI,Hainan,Province,CN
+China,CN-CQ,Chongqing,Municipality,CN
+China,CN-SC,Sichuan,Province,CN
+China,CN-GZ,Guizhou,Province,CN
+China,CN-YN,Yunnan,Province,CN
+China,CN-XZ,Xizang,Autonomous region,CN
+China,CN-SN,Shaanxi,Province,CN
+China,CN-GS,Gansu,Province,CN
+China,CN-QH,Qinghai,Province,CN
+China,CN-NX,Ningxia,Autonomous region,CN
+China,CN-XJ,Xinjiang,Autonomous region,CN
+China,CN-TW,Taiwan,Province,CN
+China,CN-Hk,Hong Kong,Special administrative region,CN
+China,CN-MO,Aomen,Special administrative region,CN
 Christmas Island,CX-CX,Christmas Island,Country,CX
 Cocos  Islands,CC-CC,Cocos  Islands,Country,CC
 Colombia,CO-AMA,Amazonas,Department,CO
