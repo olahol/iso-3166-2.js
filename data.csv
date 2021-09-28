@@ -1353,39 +1353,30 @@ France,FR-92,Hauts-de-Seine,Metropolitan department,FR
 France,FR-93,Seine-Saint-Denis,Metropolitan department,FR
 France,FR-94,Val-de-Marne,Metropolitan department,FR
 France,FR-95,Val-d'Oise,Metropolitan department,FR
-France,FR-A,Alsace,Metropolitan region,FR
-France,FR-B,Aquitaine,Metropolitan region,FR
+France,FR-ARA,Auvergne-Rhône-Alpes,Metropolitan region,FR
+France,FR-BFC,Bourgogne-Franche-Comté,Metropolitan region,FR
 France,FR-BL,Saint-Barthélemy,Overseas territorial collectivity,FR
-France,FR-C,Auvergne,Metropolitan region,FR
+France,FR-BRE,Bretagne,Metropolitan region,FR
+France,FR-COR,Corse,Metropolitan region,FR
 France,FR-CP,Clipperton,Dependency,FR
-France,FR-D,Bourgogne,Metropolitan region,FR
-France,FR-E,Bretagne,Metropolitan region,FR
-France,FR-F,Centre,Metropolitan region,FR
-France,FR-G,Champagne-Ardenne,Metropolitan region,FR
+France,FR-CVL,Centre-Val de Loire,Metropolitan region,FR
+France,FR-GES,Grand-Est,Metropolitan region,FR
 France,FR-GF,Guyane,Overseas department,FR
 France,FR-GP,Guadeloupe,Overseas department,FR
-France,FR-H,Corse,Metropolitan region,FR
-France,FR-I,Franche-Comté,Metropolitan region,FR
-France,FR-J,Île-de-France,Metropolitan region,FR
-France,FR-K,Languedoc-Roussillon,Metropolitan region,FR
-France,FR-L,Limousin,Metropolitan region,FR
+France,FR-HDF,Hauts-de-France,Metropolitan region,FR
+France,FR-IDF,Île-de-France,Metropolitan region,FR
 France,FR-MF,Saint-Martin,Overseas territorial collectivity,FR
-France,FR-M,Lorraine,Metropolitan region,FR
 France,FR-MQ,Martinique,Overseas department,FR
+France,FR-NAQ,Nouvelle-Aquitaine,Metropolitan region,FR
 France,FR-NC,Nouvelle-Calédonie,Overseas territorial collectivity,FR
-France,FR-N,Midi-Pyrénées,Metropolitan region,FR
-France,FR-O,Nord-Pas-de-Calais,Metropolitan region,FR
-France,FR-P,Basse-Normandie,Metropolitan region,FR
+France,FR-NOR,Normandie,Metropolitan region,FR
+France,FR-OCC,Occitanie,Metropolitan region,FR
+France,FR-PAC,Provence-Alpes-Côte d'Azur,Metropolitan region,FR
+France,FR-PDL,Pays-de-la-Loire,Metropolitan region,FR
 France,FR-PF,Polynésie française,Overseas territorial collectivity,FR
 France,FR-PM,Saint-Pierre-et-Miquelon,Overseas territorial collectivity,FR
-France,FR-Q,Haute-Normandie,Metropolitan region,FR
 France,FR-RE,La Réunion,Overseas department,FR
-France,FR-R,Pays-de-la-Loire,Metropolitan region,FR
-France,FR-S,Picardie,Metropolitan region,FR
 France,FR-TF,Terres australes françaises,Overseas territorial collectivity,FR
-France,FR-T,Poitou-Charentes,Metropolitan region,FR
-France,FR-U,Provence-Alpes-Côte-d'Azur,Metropolitan region,FR
-France,FR-V,Rhône-Alpes,Metropolitan region,FR
 France,FR-WF,Wallis-et-Futuna,Overseas territorial collectivity,FR
 France,FR-YT,Mayotte,Overseas department,FR
 French Guiana,GF-GF,French Guiana,Country,GF
