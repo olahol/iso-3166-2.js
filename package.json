@@ -1,6 +1,6 @@
 {
-  "name": "iso-3166-2",
-  "description": "Lookup information about ISO-3166-2 subdivisions.",
+  "name": "@mitodl/iso-3166-2",
+  "description": "Lookup information about ISO-3166-2 subdivisions. (MIT Open Learning fork).",
   "version": "1.0.0",
   "author": "Ola Holmström <olaholmstrom+github@gmail.com>",
   "keywords": [
