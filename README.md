@@ -151,6 +151,16 @@ The ISO 3166-1 alpha 3 to alpha 2 conversion table, the layout is:
 }
 ```
 
+
+## Updating the codes
+
+The codes which map country codes to specific provinces or states live in the data.csv file.
+
+Should the codes be updated in the data.csv file, you will need to update the iso3166.min.js file.
+
+To do this, you must run make (ensure you are using python 2.7.18)
+
+
 ## Contributors
 
 * Ola Holmström (@olahol)

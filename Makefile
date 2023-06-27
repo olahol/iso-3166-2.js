@@ -1,3 +1,5 @@
+# This requires python 2.7.18
+
 TARGET = iso3166.min.js
 $(TARGET): parse.py data.csv codes.csv functions.js
 	python parse.py
